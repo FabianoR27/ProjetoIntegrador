@@ -5,9 +5,13 @@ html {
   background-color: #00040D;
 }
 header  {
+  display: flex;
+  flex-wrap: wrap;
   text-align: center;
   background-color: #00040D;
+  margin: auto;
 }
+
 body {
   margin: auto;
   box-shadow: 0px 0px 10px #000000;
@@ -16,7 +20,6 @@ body {
 
 
 img {
-  margin: 5px;
   box-shadow: 0px 0px 10px #000000;
 }
 
@@ -64,6 +67,10 @@ nav a:hover {
   transition: all 0.2s linear;
 }
 
+main {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
 .copyright,
 .voltaraotopo {
   text-align: center;
@@ -261,34 +268,39 @@ th {
 
 .cosplay1, .cosplay2, .cosplay3 {
   position: relative;
+  margin-bottom: 60px;
+  box-shadow: 0 0 10px #eeeeb6;
+
   
 }
 
 .texto1, .texto2, .texto3 {
   position: absolute;
   text-align: center;
-  width: 250px;
-  bottom: 30px;
+  width: 100%;
+  bottom: 40px;
 }
 
 .texto1-2, .texto2-2, .texto3-2{
   position: absolute;
   text-align: center;
-  width: 250px;
+  width: 100%;
   bottom: 10px;
 }
-/*COSPLAYS*/
 
-
-/*CRIADOR*/
-.asidecriador {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  padding: 0;
-  margin: auto;
-  text-align: left;
+.texto1 a,
+.texto2 a,
+.texto3 a {
+  font-size: 25px;
 }
+
+.texto1-2 a,
+.texto2-2 a,
+.texto3-2 a {
+  color: #ffd700;
+  font-size: 30px;
+}
+/*COSPLAYS*/
 
 /*CORES, FONTES, EFEITOS E MAIS*/
 
@@ -355,12 +367,6 @@ figcaption a {
   color: white;
   font-size: 20px;
   padding: 0px;
-}
-
-.texto1-2 a,
-.texto2-2 a,
-.texto3-2 a {
-  color: #ffd700;
 }
 
 .paddingtexto {
@@ -462,17 +468,22 @@ p {
   color: #ffffff;
 }
 
-.mainsobre, .maincosplays, .maincosplayer {
+.mainsobre, .maincosplays {
   margin: auto;
+  margin-top: 20px;
+  margin-bottom: 60px;
   max-width: 1080px;
 }
 
 .maincosplayer {
   display: flex;
   flex-wrap: wrap;
+  margin-top: 20px;
+  margin-bottom: 60px;
 }
 .destaques {
   margin: auto;
+  margin-bottom: 60px;
   max-width: 1080px;
 }
 
@@ -504,4 +515,37 @@ main p {
 
 .footerpadrao img {
   box-shadow: none;
+  margin: 5px;
+}
+.ordem0 {
+  flex: 1;
+  order: 0;
+}
+
+.ordem1 {
+  flex: 2;
+  order: 1;
+}
+
+.ordem2 {
+  flex: 1;
+  order: 2;
+}
+
+.sechq {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: left;
+}
+
+.quadrohq {
+  display: flex;
+  flex-direction: column;
+  flex:1;
+  margin: 10px;
+  flex-basis: 400px;
+}
+
+.flexstart {
+  justify-content:flex-start;
 }
