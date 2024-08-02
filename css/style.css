@@ -266,12 +266,20 @@ th {
 
 /*COSPLAYS*/
 
-.cosplay1, .cosplay2, .cosplay3 {
+.cosplays-img {
   position: relative;
   margin-bottom: 60px;
   box-shadow: 0 0 10px #eeeeb6;
+  overflow: hidden;
+}
 
-  
+
+.cosplays-img img{
+  transition: transform 1.0s ease;
+}
+
+.cosplays-img:hover img{
+  transform: scale(1.04);
 }
 
 .texto1, .texto2, .texto3 {
