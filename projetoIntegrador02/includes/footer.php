@@ -35,9 +35,11 @@
             <!--Coluna 4: Formulário da newsletter -->
             <div class="col-12 col-md-6 col-lg-2 offset-lg-1 offset-md-3 col-lg-3 py-4">
                 <hr class="d-sm-none">
-                <form class="formfooter">
-                    <h4>Assine nossa newsletter</h4>
-                    <p>Receba nossas novidades</p>
+                <form>
+                    <div class="text-light">
+                        <h4 clas>Assine nossa newsletter</h4>
+                        <p>Receba nossas novidades</p>
+                    </div>
                     <div class="form-floating d-flex gap-2 ">
                         <input type="email" class="form-control " id="floatingInput" placeholder="name@example.com">
                         <label for="floatingInput">E-mail</label>
@@ -61,5 +63,7 @@
 
 <!--Scripts BootStrap-->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+<script src="js/animeContent.js"></script>
 </body>
 </html>

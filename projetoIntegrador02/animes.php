@@ -75,25 +75,17 @@
                 <h2 class="mb-3 ps-2 ps-md-0 text-uppercase text-center text-md-start fw-semibold">10 Obras-Primas do Anime Que Você Não Pode Deixar de Ver:</h2>
                 <div class="carousel"> <!-- A class 'carousel' está segurando os botões no lugar correto-->
                     <!-- botões de enfeite, pois não pode usar javaScript para fazê-los funcionar -->
-                    <button title="!!! Apenas de enfeite ¯\_(ツ)_/¯" class="scroll-button left" type="button" id="scrollLeft">
+                    <button title="para a esquerda" class="scroll-button left" type="button" id="scrollLeft">
                         <i class="bi bi-chevron-left"></i>
                     </button>
-                    <button title="!!! Apenas de enfeite ¯\_(ツ)_/¯" class="scroll-button right" type="button" id="scrollRight">
+                    <button title="para a direita" class="scroll-button right" type="button" id="scrollRight">
                         <i class="bi bi-chevron-right"></i>
                     </button>
-                    
-                    <?php //função para ativar a classe 'bright-image' ao clicar em uma imagem
-                        function brightness($imagemBrilhante){
-                            $paginaAnime = isset($_GET['page']) ? $_GET['page'] : ''; 
-                            if($imagemBrilhante == $paginaAnime){
-                                echo 'bright-image';
-                            } 
-                        }
-                    ?>
+                
                     <ul class="d-flex list-unstyled gap-2 overflow-x-scroll p-2 px-md-0" id="imageContainer">
                         <li class="mx-1 mx-md-2" id="anime1">
                             <div class="clearfix zoom-img mt-1">
-                            <a href="animes.php?page=anime1#anime1" class="link-dark link-underline-opacity-0 <?php brightness('anime1')?>">
+                                <a href="includes/anime-onePiece.php" class="load-content link-dark link-underline-opacity-0">
                             <img src="images/anime_one_piece_sm.webp" class="figure-img rounded-3" alt="One Piece">
                                     <h4 class="text-start m-0" lang="en-us">One Piece</h4>
                                 </a>
@@ -102,7 +94,7 @@
 
                         <li class="mx-1 mx-md-2" id="anime2">
                             <div class="clearfix zoom-img mt-1">
-                                <a href="animes.php?page=anime2#anime2" class="link-dark link-underline-opacity-0 <?php brightness('anime2')?>">
+                                <a href="includes/anime-naruto.php" class="load-content link-dark link-underline-opacity-0">
                                     <img src="images/anime_naruto_sm.webp" class="figure-img rounded-3" alt="Naruto Shippuden ">
                                     <h4 class="text-start m-0">Naruto Shippuden</h4>
                                 </a>
@@ -111,7 +103,7 @@
 
                         <li class="mx-1 mx-md-2" id="anime3">
                             <div class="clearfix zoom-img mt-1">
-                                <a href="animes.php?page=anime3#anime3" class="link-dark link-underline-opacity-0 <?php brightness('anime3')?>">
+                                <a href="includes/anime-dragonBall.php" class="load-content link-dark link-underline-opacity-0">
                                     <img src="images/anime_dragon_ball_sm.webp" class="figure-img rounded-3" alt="Dragon Ball Z">
                                     <h4 class="text-start m-0" lang="en-us">Dragon Ball Z</h4>
                                 </a>
@@ -120,7 +112,7 @@
 
                         <li class="mx-1 mx-md-2" id="anime4">
                             <div class="clearfix zoom-img mt-1">
-                                <a href="animes.php?page=anime4#anime4" class="link-dark link-underline-opacity-0 <?php brightness('anime4')?>">
+                                <a href="includes/anime-attackOnTitan.php" class="load-content link-dark link-underline-opacity-0">
                                     <img src="images/anime_attack_on_titan_sm.webp" class="figure-img rounded-3" alt="Attack On Titan">
                                     <h4 class="text-start m-0" lang="en-us">Attack On Titan</h4>
                                 </a>
@@ -129,7 +121,7 @@
 
                         <li class="mx-1 mx-md-2" id="anime5">
                             <div class="clearfix zoom-img mt-1">
-                                <a href="animes.php?page=anime5#anime5" class="link-dark link-underline-opacity-0 <?php brightness('anime5')?>">
+                                <a href="includes/anime-deathNote.php" class="load-content link-dark link-underline-opacity-0">
                                     <img src="images/anime_death_note_sm.webp" class="figure-img rounded-3" alt="Death Note">
                                     <h4 class="text-start m-0" lang="en-us">Death Note</h4>
                                 </a>
@@ -138,7 +130,7 @@
 
                         <li class="mx-1 mx-md-2" id="anime6">
                             <div class="clearfix zoom-img mt-1">
-                                <a href="animes.php?page=anime6#anime6" class="link-dark link-underline-opacity-0 <?php brightness('anime6')?>">
+                                <a href="includes/anime-chainsawMan.php" class="load-content link-dark link-underline-opacity-0">
                                     <img src="images/anime_chainsaw_man_sm.webp" class="figure-img rounded-3" alt="Chainsaw Man">
                                     <h4 class="text-start m-0" lang="en-us">Chainsaw Man</h4>
                                 </a>
@@ -147,7 +139,7 @@
 
                         <li class="mx-1 mx-md-2" id="anime7">
                             <div class="clearfix zoom-img mt-1">
-                                <a href="animes.php?page=anime7#anime7" class="link-dark link-underline-opacity-0 <?php brightness('anime7')?>">
+                                <a href="includes/anime-cowboyBebop.php" class="load-content link-dark link-underline-opacity-0">
                                     <img src="images/anime_cowboy_bebop_sm.webp" class="figure-img rounded-3" alt="Cowboy Bebop">
                                     <h4 class="text-start m-0">Cowboy Bebop</h4>
                                 </a>
@@ -156,7 +148,7 @@
 
                         <li class="mx-1 mx-md-2" id="anime8">
                             <div class="clearfix zoom-img mt-1">
-                                <a href="animes.php?page=anime8#anime8" class="link-dark link-underline-opacity-0 <?php brightness('anime8')?>">
+                                <a href="includes/anime-onePunchMan.php" class="load-content link-dark link-underline-opacity-0">
                                     <img src="images/anime_one_punch_man_sm.webp" class="figure-img rounded-3" alt="One Punch Man">
                                     <h4 class="text-start m-0" lang="en-us">One Punch Man</h4>
                                 </a>
@@ -165,7 +157,7 @@
 
                         <li class="mx-1 mx-md-2" id="anime9">
                             <div class="clearfix zoom-img mt-1">
-                                <a href="animes.php?page=anime9#anime9" class="link-dark link-underline-opacity-0 <?php brightness('anime9')?>">
+                                <a href="includes/anime-jujutsuKaisen.php" class="load-content link-dark link-underline-opacity-0">
                                     <img src="images/anime_jujutsu_kaisen_sm.webp" class="figure-img rounded-3" alt="Jujutsu Kaisen">
                                     <h4 class="text-start m-0">Jujutsu Kaisen</h4>
                                 </a>
@@ -174,7 +166,7 @@
 
                         <li class="mx-1 mx-md-2" id="anime10">
                             <div class="clearfix zoom-img mt-1">
-                                <a href="animes.php?page=anime10#anime10" class="link-dark link-underline-opacity-0 <?php brightness('anime10')?>">
+                                <a href="includes/anime-demonSlayer.php" class="load-content link-dark link-underline-opacity-0">
                                     <img src="images/anime_demon_slayer_sm.webp" class="figure-img rounded-3" alt="Demon Slayer">
                                     <h4 class="text-start m-0" lang="en-us">Demon Slayer</h4>
                                 </a>
@@ -183,7 +175,7 @@
                     </ul>
 
                     <div class="text-center">
-                        <small class="text-light"><em>Utilize a barra para mover a lista</em></small>
+                        <small class="text-light"><em>Você pode usar os botões laterais para mover a lista</em></small>
                     </div>
                 </div>
             </div>
@@ -191,43 +183,7 @@
 
         <!-- CONTEÚDO DOS ANIMES, CARREGADO DINAMICAMENTE COM PHP -->
         <div class="container-fluid p-0" id="content">
-            <?php // recurso para incluir o conteúdo correspondente ao anime selecionado
-                // Verifica se existe o parâmetro 'page' na URL
-                if (isset($_GET['page'])) {
-                    $page = $_GET['page'];
-                    // Incluir o conteúdo baseado no valor do parâmetro
-                    if ($page == 'anime1') {
-                        include 'includes/anime-onePiece.php';
-                    } elseif ($page == 'anime2') {
-                        include 'includes/anime-naruto.php';
-
-                    } elseif ($page == 'anime3') {
-                        include 'includes/anime-dragonBall.php';
-                    
-                    } elseif ($page == 'anime4') {
-                        include 'includes/anime-attackOnTitan.php';
-                    
-                    } elseif ($page == 'anime5') {
-                        include 'includes/anime-deathNote.php';
-                    
-                    } elseif ($page == 'anime6') {
-                        include 'includes/anime-chainsawMan.php';
-                    
-                    } elseif ($page == 'anime7') {
-                        include 'includes/anime-cowboyBebop.php';
-                    
-                    } elseif ($page == 'anime8') {
-                        include 'includes/anime-onePunchMan.php';
-                    
-                    } elseif ($page == 'anime9') {
-                        include 'includes/anime-jujutsuKaisen.php';
-                    
-                    } elseif ($page == 'anime10') {
-                        include 'includes/anime-demonSlayer.php';
-                    
-                    }
-                }
-            ?>
+            
         </div>
 
         <!--Secão Veja Também-->

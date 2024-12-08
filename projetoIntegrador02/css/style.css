@@ -9,11 +9,6 @@
     font-weight: bold;
 }
 
-.formfooter h4, .formfooter p{
-    color: white;
-}
-
-
 /* ESTILIZAÇAO DAS PAGINAS 'ANIMES' E 'SÉRIES'*/
 /* cor do container da lista de animes e séries*/
 #animeList{
@@ -23,21 +18,9 @@
     background-color: #f2b705;
 }
 
-/* Estilização da barra de rolagem horizontal*/
-section ::-webkit-scrollbar {
-    height: .5em;
-}
-section ::-webkit-scrollbar-thumb {
-    border-radius: 50px;
-    background: #00000057;
-}
-section ::-webkit-scrollbar-thumb:hover {
-    background: #f2b705;
-}
-section ::-webkit-scrollbar-track {
-    background: #f2b70593;
-    border-radius: 50px;
-    box-shadow: 0 .125rem .25rem #00000030; /* sombra na barra horizontal */
+/* removendo a barra de rolagem horizontal da lista de animes*/
+.overflow-x-scroll{
+    scrollbar-width: none;
 
 }
 
@@ -89,9 +72,9 @@ section ::-webkit-scrollbar-track {
     transform: scale(1.03);
     filter: brightness(1.0);
 }
-.bright-image img{ /* deixa somente a imagem com a classe 'bright-image' com o brilho alto permanente*/
+#animeList a:focus img {/*manterá a imagem que foi clicada com brilho alto*/
     filter: brightness(1.0);
-}
+    }
 /* fim da aplicação de zoom e brilho nos banners*/
 
 /* efeito visual (ou magia) para esconder e revelar os vídeos sobre as imagens grandes dos animes */

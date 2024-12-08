@@ -4,7 +4,7 @@
         <div class="mx-auto position-relative">
             <img class="img-fluid rounded-3" src="images/anime_jujutsu_kaisen_lg.webp" alt="Jujutsu Kaisen">
             <div class="position-absolute top-0 ratio ratio-16x9 anime-video"><!-- Vídeo que será revelado ao posicionar o mouse sobre a imagem -->
-                <iframe src="https://www.youtube.com/embed/V1_PdZzqIt8?list=PLvdPoYtCK3rMsC-fEPDWPWeQ2pq62HGJc" title="Gojo vs Sukuna | JUJUTSU KAISEN (Dublado)" class="rounded-3"></iframe>
+                <iframe src="https://www.youtube.com/embed/V1_PdZzqIt8" title="Gojo vs Sukuna | JUJUTSU KAISEN (Dublado)" class="rounded-3"></iframe>
             </div>
 
             <div class="text-center">
