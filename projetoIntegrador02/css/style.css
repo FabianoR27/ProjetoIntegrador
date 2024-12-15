@@ -274,7 +274,7 @@ footer {
     /* fim da adição de bordas*/
     /* FIM DOS REAJUSTES NAS PÁGINAS 'ANIMES' E 'SÉRIES' */
 
-    /*efeito de zoom nas imagens da galeria da fatecon 2023 ao clicar*/
+    /*efeito de zoom nas imagens da galeria da página 'Atrações' ao clicar*/
     .ft-ftc img {
         position: relative;
         z-index: 1;

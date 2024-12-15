@@ -4,7 +4,7 @@
     <main class="p-0 py-md-2">
         <div class="container my-5 p-3 p-md-5">
             <h1 class=" text-uppercase my-4 text-danger fw-bold"><i class="bi bi-exclamation-triangle"></i> Antes de mais nada, leia este Disclaimer! </h1>
-            <p class="lead">Este portal é um projeto acadêmico desenvolvido por mim, Fabiano Ramos, e minha equipe para o segundo semestre do curso de Sistemas para Internet, da FATEC-SR. Foi entregue e avaliado com sucesso, conquistando nota máxima. Esta versão é uma personalização feita por mim, alinhada à minha visão do projeto, mas quero aqui dedicar e agradecer a todos os integrantes do time (e amigos) que contribuíram para este trabalho incrível.</p>
+            <p class="lead">Este portal é um projeto acadêmico desenvolvido por mim, Fabiano Ramos, e minha equipe para o segundo semestre do curso de Sistemas para Internet, da Faculdade de Tecnologia de São Roque (FATEC-SR). Foi entregue e avaliado com sucesso, conquistando nota máxima. Esta versão é uma personalização feita por mim, alinhada à minha visão do projeto, mas quero aqui dedicar e agradecer a todos os integrantes do time (e amigos) que contribuíram para este trabalho incrível.</p>
 
             <p class="lead">Sem eles, esta obra não teria sido possível. Cada um deixou sua marca neste projeto, e é por isso que quero parabenizar a todos por este grande feito. Agora, convido vocês a conhecerem esse time de grandes desenvolvedores e pessoas que dedicaram seu tempo e esforço para a realização deste portal.</p>
 

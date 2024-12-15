@@ -29,7 +29,7 @@ function active($pagina_ativa){
 <header class="p-2 border-bottom fw-semibold sticky-lg-top">
     <div class="container">
         <div class="navbar navbar-expand-lg">
-            <a href="index.php"><img class="me-3" src="images/logos/favicon.png" alt=""></a>
+            <a href="index.php"><img class="me-3 rounded-circle" src="images/logos/logo_equipe_v1.webp" alt="DAPP Logo" style="width: 50px;"></a>
             <button class="navbar-toggler bg-warning" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
