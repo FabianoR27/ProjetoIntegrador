@@ -1,5 +1,5 @@
 <!--Footer-->
-<footer class="container-fluid bg-dark px-0 pt-4">
+<footer class="container-fluid px-0 pt-4">
     <!--Navegação do footer-->
     <div class="container py-4 px-5 d-flex">
         <nav class="row gx-5 d-flex align-items-center">
@@ -29,7 +29,7 @@
 
             <!--Coluna 3: Imagem do mascote -->
             <div class="col-12 col-sm-4 col-md-4 col-lg-2 mx-auto">
-                <img class="img-fluid" src="images/mascoteFatecon.png" alt="Mascote Fatecon">
+                <img class="img-fluid" src="images/mysignwhite.png" alt="Mascote Fatecon">
             </div>
 
             <!--Coluna 4: Formulário da newsletter -->
@@ -37,7 +37,7 @@
                 <hr class="d-sm-none">
                 <form>
                     <div class="text-light">
-                        <h4 clas>Assine nossa newsletter</h4>
+                        <h4>Assine nossa newsletter</h4>
                         <p>Receba nossas novidades</p>
                     </div>
                     <div class="form-floating d-flex gap-2 ">

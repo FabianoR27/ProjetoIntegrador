@@ -1,10 +1,11 @@
 <?php include "includes/header.php"; ?>
-<div class="container-fluid p-0">
+<div class="container-fluid p-0 text-white">
     <main class="py-lg-5 py-md-5 py-sm-0 my-2 clearfix">
         <div class="container my-2 ">
-            <h1 class="text-center fw-bold py-2">FATECon HQs 2024: A Maior Celebração da Cultura Geek e  Quadrinhos de São Roque Está de Volta!</h1>
+            <h1 class="text-center fw-bold text-warning py-2">FATECon HQs 2024: A Maior Celebração da Cultura Geek e  Quadrinhos de São Roque Está de Volta!</h1>
 
             <div class="row mx-auto">
+                <small>Por: Rafael Moraes.</small>
                 <div class="col-12 col-md-7 mt-4">
                     <p>A FATECon HQs 2024 retorna com tudo, prometendo ser a maior edição do evento até agora. Nos dias 20 e 21 de setembro, a cidade será palco de uma grande celebração da cultura geek e dos quadrinhos, com uma programação repleta de oficinas, palestras, mesas-redondas, cosplay, e o aguardado Concurso "Desenhe São Roque 2024", que promete revelar novos talentos.</p>
                     
@@ -16,7 +17,7 @@
                 </div>
                 
                 <div class="col-12 col-md-5 mt-4 p-3 py-md-0 text-center text-md-end">
-                    <img class="img-fluid text-center rounded-3" src="images/FATECon.png" alt="Banner FATECon">
+                    <img class="img-fluid text-center rounded-3 border border-primary" src="images/FATECon.png" alt="Banner FATECon">
                 </div>
             </div>
         </div>
@@ -24,7 +25,7 @@
 
     <article class="py-lg-5 py-md-5 py-sm-0 clearfix">
         <div class="container my-2">
-            <h2 class="h1 text-center fw-bold py-2">ATRAÇÕES</h2>
+            <h2 class="h1 text-center fw-bold py-2 text-warning">ATRAÇÕES</h2>
 
             <div class="d-flex flex-column flex-lg-row justify-content-evenly gap-3 m-auto text-light">
                 <div class="d-flex flex-column flex-md-row justify-content-evenly align-items-stretch w-100 gap-3">
@@ -77,15 +78,15 @@
     <section class="py-lg-5 py-md-5 py-sm-0 clearfix" style="background-color: #033e8c;">
         <div class="container my-2">
             <h3 class="h1 text-center text-light fw-bold py-2">AUTORES QUE ESTARÃO NA NOSSA FATECON</h3>
-            <div class="carousel">
-                <button class="scroll-button left" type="button" id="scrollLeft">
-                    <i class="bi bi-chevron-left"></i>
+            <div class="carousel user-select-none">
+                <button class="scroll-button middle left" type="button" id="scrollLeft">
+                    <i class="bi bi-chevron-left text-light"></i>
                 </button>
-                <button class="scroll-button right" type="button" id="scrollRight">
-                    <i class="bi bi-chevron-right"></i>
+                <button class="scroll-button middle right" type="button" id="scrollRight">
+                    <i class="bi bi-chevron-right text-light"></i>
                 </button>
 
-                <ul class="d-flex overflow-x-scroll list-unstyled py-2 shadow-sm" id="imageContainer">
+                <ul class="d-flex overflow-x-scroll list-unstyled py-2" id="imageContainer">
                     <li class="mx-1 mx-md-2">
                         <img src="images/atracoes_rafaelmarcal.png" class="figure-img rounded-3" alt="Rafael Marçal">
                         <h4 class="text-start m-0 text-light"> RAFAEL MARÇAL</h4>
@@ -134,44 +135,40 @@
                         <h4 class="text-start m-0 text-light">BIRA DANTAS</h4>
                     </li>
                 </ul>
-
-                <div class="text-center">
-                    <small class="text-light"><em>Utilize a barra para mover a lista</em></small>
-                </div>
             </div>
         </div>
     </section>
 
     <section class="py-lg-5 py-md-5 py-sm-0 clearfix">
         <div class="container my-2">
-            <h3 class="h1 text-center fw-bold py-2">UM POUCO DA FATECON 2023</h3>
+            <h3 class="h1 text-center text-primary fw-bold py-2">UM POUCO DA FATECON 2023</h3>
             
-            <p class="pt-4 fs-4"> Em 2023 a feira geek foi realizada nos dias 12 e 13 de maio no Recanto da Cascata, sendo essa a segunda edição do evento, e foi um sucesso, contou com mais de 80 artistas, desfile de cosplay, palestras, workshops e não poderia faltar o concurso "Desenhe São Roque"</p>.
+            <p class="pt-4 fs-4"> Em 2023 a feira geek foi realizada nos dias 12 e 13 de maio no Recanto da Cascata, sendo essa a segunda edição do evento, e foi um sucesso, contou com mais de 80 artistas, desfile de cosplay, palestras, workshops e não poderia faltar o concurso "Desenhe São Roque".</p>
 
-            <div class="d-flex flex-wrap justify-content-center gap-3">
-                <img class="ft2023" src="images/fatecon1.png" alt="fotos do evento 2023">
-                <img class="ft2023" src="images/fatecon2.png" alt="fotos do evento 2023">
-                <img class="ft2023" src="images/fatecon3.png" alt="fotos do evento 2023">
-                <img class="ft2023" src="images/fatecon4.png" alt="fotos do evento 2023">
-                <img class="ft2023" src="images/fatecon5.png" alt="fotos do evento 2023">
-                <img class="ft2023" src="images/fatecon6.png" alt="fotos do evento 2023">
-                <img class="ft2023" src="images/fatecon7.png" alt="fotos do evento 2023">
-                <img class="ft2023" src="images/fatecon8.png" alt="fotos do evento 2023">
-                <img class="ft2023" src="images/artfatecon9.png" alt="fotos do evento 2023">
-                <img class="ft2023" src="images/artfatecon10.png" alt="fotos do evento 2023">
+            <div class="d-flex flex-wrap justify-content-center gap-3 ft-ftc user-select-none">
+                <img class="ft2023" src="images/fatecon1.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/fatecon2.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/fatecon3.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/fatecon4.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/fatecon5.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/fatecon6.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/fatecon7.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/fatecon8.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/artfatecon9.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/artfatecon10.png" alt="fotos do evento 2023" tabindex="0">
             </div>
         </div>
     </section>
 
     <section class="p-3 py-5 p-md-5 clearfix">
-        <div class="container p-5 text-center bg-dark rounded-3 border border-warning shadow p-3">
+        <div class="container p-5 text-center bordas-red rounded-3 p-3">
             <h3 class="h1 text-warning fw-bold">Gostaria de colaborar com o crescimento do nosso evento e ter a chance de ter sua obra exposta para milhares de pessoas?</h3>
             <p class="lead text-light">Participe do evento FATECon escolhendo sua categoria: inscreva-se no concurso de cosplay, seja um expositor ou colabore como voluntário. Venha fazer parte dessa experiência única e contribuir para o sucesso do maior evento geek da região!</p>
             <div class="d-grid gap-2 d-md-flex justify-content-md-center">
-                <a class="btn btn-success btn-lg px-4" href="inscricoes.php">Inscreva-se agora mesmo!</a>
+                <a class="btn btn-primary btn-lg px-4" href="inscricoes.php">Inscreva-se agora mesmo!</a>
             </div>
         </div>
-    </section>  
+    </section>
 </div>
 
 <?php include "includes/footer.php"; ?>

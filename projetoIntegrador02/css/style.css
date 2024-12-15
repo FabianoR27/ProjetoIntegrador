@@ -4,6 +4,25 @@
     font-family: "Poppins", sans-serif;
 }
 
+/* cores no header, body e footer */
+header {
+    background-color: #020e1e;
+}
+body {
+    background-color: #00040d;
+}
+footer {
+    background-image: linear-gradient(to bottom, #00040d, #020e1e);
+}
+
+/* cores extras para texto*/
+.text-orange{
+    color: #fd5f02;
+}
+.text-keppel {
+    color: #15BFAE;
+}
+
 /* deixa a classe active negrito */
 .active {
     font-weight: bold;
@@ -12,7 +31,7 @@
 /* ESTILIZAÇAO DAS PAGINAS 'ANIMES' E 'SÉRIES'*/
 /* cor do container da lista de animes e séries*/
 #animeList{
-    background-color: #d9043d;
+    background-color: #fd5f02;
 }
 .serie-list {
     background-color: #f2b705;
@@ -21,7 +40,6 @@
 /* removendo a barra de rolagem horizontal da lista de animes*/
 .overflow-x-scroll{
     scrollbar-width: none;
-
 }
 
 /* Redimensionamento dos banners da lista de animes */
@@ -44,6 +62,10 @@
     transition: ease .1s;
     background-color: #00000030; /* deixa a cor do container do botão quase transparente */
     box-shadow: 0px 0px 50px 50px #00000030; /* sombra no container do botão para destacar */
+}
+.scroll-button.middle {
+    top: 50%;
+
 }
 .scroll-button i {
     border-radius: 100%; /*arredondamento da caixa para sombreamento*/
@@ -98,6 +120,87 @@
     background-color: transparent;
     color: black
 }
+
+/* cores individuais no container do conteúdo dos animes e séries */
+/* cor no conteúdo dos animes*/
+.conteudo-anime.um {
+    background-color: #d90404;
+    box-shadow: 0 1rem 3rem #d9040483;
+    color: white;
+}
+.conteudo-anime.dois {
+    background-color: #f28705;
+    box-shadow: 0 1rem 3rem #f2870583;
+    color: white;
+}
+.conteudo-anime.tres {
+    background-color: #f25f29;
+    box-shadow: 0 1rem 3rem #f25f2983;
+    color: white;
+}
+.conteudo-anime.quatro {
+    background-color: #122E40;
+    box-shadow: 0 1rem 3rem #122e4083;
+    color: white;
+}
+.conteudo-anime.cinco {
+    background-color: #000000;
+    box-shadow: 0 1rem 3rem #ffffff2d;
+    color: white;
+}
+.conteudo-anime.seis {
+    background-color: #900117;
+    box-shadow: 0 1rem 3rem #90011783;
+    color: white;
+}
+.conteudo-anime.sete {
+    background-color: #033e8c;
+    box-shadow: 0 1rem 3rem #033e8c83;
+    color: white;
+}
+.conteudo-anime.oito {
+    background-color: #f2b705;
+    box-shadow: 0 1rem 3rem #f2b70583;
+    color: black;
+}
+.conteudo-anime.nove {
+    background-color: #1c3050;
+    box-shadow: 0 1rem 3rem #1c305083;
+    color: white;
+}
+.conteudo-anime.dez {
+    background-color: #a861d5;
+    box-shadow: 0 1rem 3rem #a861d583;
+    color: black;
+}
+
+/* cor no conteúdo das séries*/
+.conteudo-serie.um {
+    background-color: #000000;
+    box-shadow: 0 1rem 3rem #00000083;
+    color: white;
+}
+.conteudo-serie.dois {
+    background-color: #c11713;
+    box-shadow: 0 1rem 3rem #c1171383;
+    color: white;
+}
+.conteudo-serie.tres {
+    background-color: #0080c1;
+    box-shadow: 0 1rem 3rem #0080c183;
+    color: white;
+}
+.conteudo-serie.quatro {
+    background-color: #f5f5f5;
+    box-shadow: 0 1rem 3rem #ffffff83;
+    color: black;
+}
+.conteudo-serie.cinco {
+    background-color: #1d3261;
+    box-shadow: 0 1rem 3rem #1d326183;
+    color: white;
+}
+/* fim das cores individuais */
 /* FIM DA ESTILIZAÇÃO DAS PÁGINAS 'ANIMES' E 'SÉRIES' */
 
 /* aplicando cores nos ícones das redes sociais */
@@ -134,107 +237,57 @@
     }
 
     /* adicionando as bordas dos artigos a partir no modo TABLET/DESKTOP */
+    /* bordas estilizadas*/
     .bordas {
-        border: solid 2px #000000;
-        box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+        border: solid 2px white;
+        box-shadow: 0 1rem 3rem #ffffff2d;
     }
-
-    /* bordas dos asides*/
-    #pageSeries aside .bordas {
+    .bordas-yellow {
         border: solid 2px #f2b705;
         box-shadow: 0 1rem 3rem #f2b70583;
-
     }
-    #pageAnimes aside .bordas {
+    .bordas-orange {
+        border: solid 2px #fd5f02;
+        box-shadow: 0 1rem 3rem #fd5f0283;
+    }
+    .bordas-keppel {
+        border: solid 2px #15BFAE;
+        box-shadow: 0 1rem 3rem #15BFAE83;
+    }
+    .bordas-blue {
+        border: solid 2px #033e8c;
+        box-shadow: 0 1rem 3rem #033e8c83;
+    }
+    .bordas-darkgray {
+        border: solid 2px #3A4F50;
+        box-shadow: 0 1rem 3rem #3A4F5083;
+    }
+    .bordas-red {
         border: solid 2px #d90404;
         box-shadow: 0 1rem 3rem #d9040483;
     }
+
+    /*borda do conteúdo dos animes e series*/
     .conteudo-anime, .conteudo-serie {
         border: white 2px solid;
     }
     /* fim da adição de bordas*/
-
-    /* cores individuais no container do conteúdo dos animes e séries */
-    /* cor no conteúdo dos animes*/
-    .conteudo-anime.um {
-        background-color: #d90404;
-        box-shadow: 0 1rem 3rem #d9040483;
-        color: white;
-    }
-    .conteudo-anime.dois {
-        background-color: #f28705;
-        box-shadow: 0 1rem 3rem #f2870583;
-        color: white;
-    }
-    .conteudo-anime.tres {
-        background-color: #f25f29;
-        box-shadow: 0 1rem 3rem #f25f2983;
-        color: white;
-    }
-    .conteudo-anime.quatro {
-        background-color: #122E40;
-        box-shadow: 0 1rem 3rem #122e4083;
-        color: white;
-    }
-    .conteudo-anime.cinco {
-        background-color: #000000;
-        box-shadow: 0 1rem 3rem #00000083;
-        color: white;
-    }
-    .conteudo-anime.seis {
-        background-color: #900117;
-        box-shadow: 0 1rem 3rem #90011783;
-        color: white;
-    }
-    .conteudo-anime.sete {
-        background-color: #033e8c;
-        box-shadow: 0 1rem 3rem #033e8c83;
-        color: white;
-    }
-    .conteudo-anime.oito {
-        background-color: #f2b705;
-        box-shadow: 0 1rem 3rem #f2b70583;
-        color: black;
-    }
-    .conteudo-anime.nove {
-        background-color: #1c3050;
-        box-shadow: 0 1rem 3rem #1c305083;
-        color: white;
-    }
-    .conteudo-anime.dez {
-        background-color: #a861d5;
-        box-shadow: 0 1rem 3rem #a861d583;
-        color: white;
-    }
-
-    /* cor no conteúdo das séries*/
-    .conteudo-serie.um {
-        background-color: #000000;
-        box-shadow: 0 1rem 3rem #00000083;
-        color: white;
-    }
-    .conteudo-serie.dois {
-        background-color: #c11713;
-        box-shadow: 0 1rem 3rem #c1171383;
-        color: white;
-    }
-    .conteudo-serie.tres {
-        background-color: #0080c1;
-        box-shadow: 0 1rem 3rem #0080c183;
-        color: white;
-    }
-    .conteudo-serie.quatro {
-        background-color: #f5f5f5;
-        box-shadow: 0 1rem 3rem #ffffff83;
-        color: black;
-    }
-    .conteudo-serie.cinco {
-        background-color: #1d3261;
-        box-shadow: 0 1rem 3rem #1d326183;
-        color: white;
-    }
-    /* fim das cores individuais */
     /* FIM DOS REAJUSTES NAS PÁGINAS 'ANIMES' E 'SÉRIES' */
+
+    /*efeito de zoom nas imagens da galeria da fatecon 2023 ao clicar*/
+    .ft-ftc img {
+        position: relative;
+        z-index: 1;
+        height: auto;
+        transition: transform .5s ease;
+        cursor: pointer;
+    }
+    .ft-ftc img:focus {
+        transform: scale(1.5);
+        position: static;
+        z-index: 10;
+        box-shadow: 0px 0px 100px 50px #000000;
+    }
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -243,12 +296,12 @@
     .scroll-button.left {
         left: -5%;
         background-color: transparent;
-        box-shadow: 0 0 0 0 transparent
+        box-shadow: 0 0 0 0 transparent;
     }
     .scroll-button.right {
         right: -5%;
         background-color: transparent;
-        box-shadow: 0 0 0 0 transparent
+        box-shadow: 0 0 0 0 transparent;
     }
     .scroll-button i {
         background-color: transparent; /* removendo a cor da caixa do botão */
@@ -258,119 +311,90 @@
     /* fim do reajuste dos botões*/
 }
 
-    
 
-/*PAGINA HQs*/
+/*PAGINA HQs - CORES*/
 .sandman {
     background-color: #8C7F3E;
-
-    
 }
-
 .the_boys {
     background-color: #1f4ca6e0;
-    
-    
 }
-
 .umbrella_academy {
     background-color: #A64B86;
-    
-    
 }
-
 .walking_dead {
     background-color: #8f8f8f;
-    
-    
 }
-
 .deadpool {
     background-color: #F29E38;
 }
-
 .venom {
     background-color: #ABAAAA;
 }
-
 .v_vingança {
     background-color: #5b755bd3;
 }
-
 .hellboy {
     background-color: #f23030e7;
 }
-
 .autores_hq {
     background-color: #3A4F50;
 }
 
-/*  PAGINA MANGAS'*/
+/*  PAGINA MANGÁS - CORES*/
 .autores_manga {
     background-color: #3A4F50;
 }
-
 .one_piece {
     background-color: #53C9C4;
 }
-
 .dragon_ball {
     background-color: #f26444e3;
 }
-
 .naruto {
     background-color: #F2D06B;
 }
-
 .death_note {
     background-color: #A693BF;
 }
-
 .akira {
     background-color: #097BA6;
 }
-
 .ichi {
     background-color: #676B6E;
 }
-
 .rupan {
     background-color: #812F35;
 }
-
 .gunnm {
     background-color: #4F8C5E;
 }
-
 .dragon_ball {
     background-color: #F66826;
 }
-
 .naruto {
     background-color: #F7CF5E;
 }
-
 .death_note {
     background-color: #8c4962e3;
 }
-
 .akira {
     background-color: #086F98;
 }
-
 .ichi {
     background-color: #888C8F;
 }
-
 .rupan {
     background-color: #8C2E40;
 }
-
 .gunnm {
     background-color: #4F8C5E;
 }
 
-/* GAMES */
-.artgame{background-color: #15BFAE;}
-.secgame, .tabgame{background-color: royalblue;}
-.origame{background-color: #d90404;}
+/* GAMES - CORES */
+.artgame{
+    background-color: #15BFAE;
+}
+.origame{
+    background-color: #d90404;
+}

@@ -26,7 +26,7 @@ function active($pagina_ativa){
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 </head>
 <body>
-<header class="p-3 border-bottom bg-dark">
+<header class="p-2 border-bottom fw-semibold sticky-lg-top">
     <div class="container">
         <div class="navbar navbar-expand-lg">
             <a href="index.php"><img class="me-3" src="images/favicon.png" alt=""></a>
@@ -39,8 +39,8 @@ function active($pagina_ativa){
                     <li class="nav-item"><a href="atracoes.php" class="nav-link link-light <?php active('atracoes.php');?>">Atrações</a></li>
                     <!--Dropdown-->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle link-light" href="obras.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">Obras</a>
-                    <ul class="dropdown-menu">
+                        <a class="nav-link dropdown-toggle link-light" href="obras.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">HQs & Mangás</a>
+                    <ul class="dropdown-menu bg-warning">
                         <li><a class="dropdown-item <?php active('hqs.php');?>" href="hqs.php">História Das HQ's</a></li>
                         <li><a class="dropdown-item <?php active('mangas.php');?>" href="mangas.php">História Dos Mangás</a></li>
                     </ul>
@@ -48,13 +48,13 @@ function active($pagina_ativa){
                     <!--Dropdown 2-->
                     <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle link-light" href="tvecinema.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">Tv & Cinema</a>
-                    <ul class="dropdown-menu">
+                    <ul class="dropdown-menu bg-warning">
                         <li><a class="dropdown-item" href="animes.php">Animes</a></li>
                         <li><a class="dropdown-item" href="series.php">Séries Baseadas em HQ</a></li>
                     </ul>
                     <li class="nav-item"><a href="games.php" class="nav-link link-light <?php active('games.php');?>">Games</a></li>
                     <li class="nav-item"><a href="expositores.php" class="nav-link link-light <?php active('expositores.php');?>">Expositores</a></li>
-                    <li class="nav-item"><a href="contatos.php" class="nav-link link-light <?php active('contatos.php');?>">Contatos</a></li>
+                    <li class="nav-item"><a href="quemsomos.php" class="nav-link link-light <?php active('quemsomos.php');?>">Quem Somos?</a></li>
                 </ul>
                 <form class="d-flex" role="search">
                     <input class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">

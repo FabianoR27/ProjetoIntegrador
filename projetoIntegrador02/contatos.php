@@ -7,25 +7,25 @@
         <aside class="col-md-6 d-flex justify-content-center align-items-stretch">
             <div class="p-4 border border-danger rounded shadow-sm">
                 <h2 class="fw-bold text-warning">CONTATOS</h2>
-                <p class="text-muted mb-4">Dúvidas e informações</p>
+                <p class="text-light mb-4">Dúvidas e informações</p>
 
                 <!-- Lista de Contatos -->
                 <ul class="list-unstyled">
                     <li class="mb-3">
                         <i class="bi bi-whatsapp text-success fs-5"></i>
-                        <span class="ms-2 text-muted">(11) 99999-9999</span>
+                        <span class="ms-2 text-light">(11) 99999-9999</span>
                     </li>
                     <li class="mb-3">
                         <i class="bi bi-instagram text-danger fs-5"></i>
-                        <a href="https://www.instagram.com/fateconhqs" target="_blank" class="ms-2 text-muted text-decoration-none">@fateconhqs</a>
+                        <a href="https://www.instagram.com/fateconhqs" target="_blank" class="ms-2 text-light text-decoration-none">@fateconhqs</a>
                     </li>
                     <li class="mb-3">
                         <i class="bi bi-facebook text-primary fs-5"></i>
-                        <a href="https://www.facebook.com/fateconhqs" target="_blank" class="ms-2 text-muted text-decoration-none">@fateconhqs</a>
+                        <a href="https://www.facebook.com/fateconhqs" target="_blank" class="ms-2 text-light text-decoration-none">@fateconhqs</a>
                     </li>
                     <li class="mb-3">
                         <i class="bi bi-geo-alt text-warning fs-5"></i>
-                        <span class="ms-2 text-muted">Av. João Pessoa, 556 - Centro, São Roque</span>
+                        <span class="ms-2 text-light">Av. João Pessoa, 556 - Centro, São Roque</span>
                     </li>
                 </ul>
             </div>
