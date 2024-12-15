@@ -9,7 +9,7 @@
     </div>
     <div class="carousel-inner">
         <article class="carousel-item active">
-            <img class="d-block w-100" src="images/slide_mario.jpeg" alt="Slide 1 do carrossel da página home" width="800" height="400" style="object-fit: cover;">
+            <img class="d-block w-100" src="images/home/carrossel/slide_mario.jpeg" alt="Slide 1 do carrossel da página home" width="800" height="400" style="object-fit: cover;">
             <div class="container">
                 <div class="carousel-caption text-start">
                     <h2 class="h1 fw-semibold">Expositores</h2>
@@ -19,7 +19,7 @@
             </div>
         </article>
         <article class="carousel-item">
-            <img class="d-block w-100" src="images/slide_batman.jpeg" alt="Slide 2 do carrossel da página home" width="800" height="400" style="object-fit: cover;">
+            <img class="d-block w-100" src="images/home/carrossel/slide_batman.jpeg" alt="Slide 2 do carrossel da página home" width="800" height="400" style="object-fit: cover;">
             <div class="container">
                 <div class="carousel-caption">
                     <h2 class="h1 fw-semibold">Mergulhe no Universo das HQs</h2>
@@ -29,7 +29,7 @@
             </div>
         </article>
         <article class="carousel-item">
-            <img class="d-block w-100" src="images/slide_aranha.jpeg" alt="Slide 3 do carrossel da página home" width="800" height="400" style="object-fit: cover;">
+            <img class="d-block w-100" src="images/home/carrossel/slide_aranha.jpeg" alt="Slide 3 do carrossel da página home" width="800" height="400" style="object-fit: cover;">
             <div class="container">
                 <div class="carousel-caption text-end">
                     <h2 class="h1 fw-semibold">Descubra nossas atrações Geek</h2>
@@ -54,7 +54,7 @@
     <div class="container col-xxl-8 px-4 py-5">
         <div class="row flex-lg-row align-items-center g-5 py-5 d-flex justify-content-center">
             <div class="col-10 col-sm-8 col-lg-6 d-flex justify-content-center">
-                <img src="images/expositores_home.jpg" class="mx-auto img-fluid rounded-3 border border-danger" alt="Imagem promocional dos expositores" width="500" height="500" loading="lazy">
+                <img src="images/home/expositores_home.jpg" class="mx-auto img-fluid rounded-3 border border-danger" alt="Imagem promocional dos expositores" width="500" height="500" loading="lazy">
             </div>
             <article class="col-lg-6">
                 <h2 class="h1 text-warning fw-bold">Tenha a chance de expor seus trabalhos para um público apaixonado por quadrinhos, cultura geek e muito mais!</h2>
@@ -74,7 +74,7 @@
     <h2 class="h1 px-2 py-3 text-primary fw-bold">Cosplay na Fatecon: Dê vida aos seus personagens favoritos!</h2>
     <div>
         <p class="lead">Nosso evento contará com um concurso de cosplay, onde você poderá exibir sua criatividade e talento. Seja qual for o seu personagem — de animes, quadrinhos, filmes ou jogos — todos são bem-vindos para mostrar suas habilidades e celebrar essa cultura vibrante. O concurso será uma oportunidade de interação com outros fãs e de competir por prêmios. Para participar, é necessário se inscrever antecipadamente. <a href="inscricoes.php" class="text-danger text-decoration-none">Saiba mais aqui.</a></p>
-        <img class="img-fluid py-5" src="images/home_cosplay.jpg" alt="Imagem com referências a cosplay">
+        <img class="img-fluid py-5" src="images/home/home_cosplay.jpg" alt="Imagem com referências a cosplay">
     </div>
 </article>
 
@@ -191,70 +191,70 @@
                     <div class="col-6 col-sm-4 col-md-3 col-lg-2 flex-shrink-0 mx-2">
                         <div class="card border-0 shadow-sm">
                             <a href="atracoes.php">
-                                <img src="images/atracoes_carrossel.png" class="img-fluid rounded" alt="Atrações">
+                                <img src="images/home/carrossel/atracoes_carrossel.png" class="img-fluid rounded" alt="Atrações">
                             </a>
                         </div>
                     </div>
                     <div class="col-6 col-sm-4 col-md-3 col-lg-2 flex-shrink-0 mx-2">
                         <div class="card border-0 shadow-sm">
                             <a href="animes.php">
-                                <img src="images/animes_carrossel.png" class="img-fluid rounded" alt="Animes">
+                                <img src="images/home/carrossel/animes_carrossel.png" class="img-fluid rounded" alt="Animes">
                             </a>
                         </div>
                     </div>
                     <div class="col-6 col-sm-4 col-md-3 col-lg-2 flex-shrink-0 mx-2">
                         <div class="card border-0 shadow-sm">
                             <a href="hqs.php">
-                                <img src="images/hqs_carrossel.png" class="img-fluid rounded" alt="HQs">
+                                <img src="images/home/carrossel/hqs_carrossel.png" class="img-fluid rounded" alt="HQs">
                             </a>
                         </div>
                     </div>
                     <div class="col-6 col-sm-4 col-md-3 col-lg-2 flex-shrink-0 mx-2">
                         <div class="card border-0 shadow-sm">
                             <a href="mangas.php">
-                                <img src="images/mangas_carrossel.png" class="img-fluid rounded" alt="Mangás">
+                                <img src="images/home/carrossel/mangas_carrossel.png" class="img-fluid rounded" alt="Mangás">
                             </a>
                         </div>
                     </div>
                     <div class="col-6 col-sm-4 col-md-3 col-lg-2 flex-shrink-0 mx-2">
                         <div class="card border-0 shadow-sm">
                             <a href="series.php">
-                                <img src="images/series_carrossel.png" class="img-fluid rounded" alt="Séries">
+                                <img src="images/home/carrossel/series_carrossel.png" class="img-fluid rounded" alt="Séries">
                             </a>
                         </div>
                     </div>
                     <div class="col-6 col-sm-4 col-md-3 col-lg-2 flex-shrink-0 mx-2">
                         <div class="card border-0 shadow-sm">
                             <a href="games.php">
-                                <img src="images/games_carrossel.png" class="img-fluid rounded" alt="Games">
+                                <img src="images/home/carrossel/games_carrossel.png" class="img-fluid rounded" alt="Games">
                             </a>
                         </div>
                     </div>
                     <div class="col-6 col-sm-4 col-md-3 col-lg-2 flex-shrink-0 mx-2">
                         <div class="card border-0 shadow-sm">
                             <a href="expositores.php">
-                                <img src="images/expositores_carrossel.png" class="img-fluid rounded" alt="Expositores">
+                                <img src="images/home/carrossel/expositores_carrossel.png" class="img-fluid rounded" alt="Expositores">
                             </a>
                         </div>
                     </div>
                     <div class="col-6 col-sm-4 col-md-3 col-lg-2 flex-shrink-0 mx-2">
                         <div class="card border-0 shadow-sm">
                             <a href="inscricoes.php">
-                                <img src="images/inscricoes_carrossel.png" class="img-fluid rounded" alt="Inscrições">
+                                <img src="images/home/carrossel/inscricoes_carrossel.png" class="img-fluid rounded" alt="Inscrições">
                             </a>
                         </div>
                     </div>
                     <div class="col-6 col-sm-4 col-md-3 col-lg-2 flex-shrink-0 mx-2">
                         <div class="card border-0 shadow-sm">
                             <a href="quemsomos.php">
-                                <img src="images/quemsomos_carrossel.png" class="img-fluid rounded" alt="Quem Somos">
+                                <img src="images/home/carrossel/quemsomos_carrossel.png" class="img-fluid rounded" alt="Quem Somos">
                             </a>
                         </div>
                     </div>
                     <div class="col-6 col-sm-4 col-md-3 col-lg-2 flex-shrink-0 mx-2">
                         <div class="card border-0 shadow-sm">
                             <a href="contatos.php">
-                                <img src="images/contatos_carrossel.png" class="img-fluid rounded" alt="Contatos">
+                                <img src="images/home/carrossel/contatos_carrossel.png" class="img-fluid rounded" alt="Contatos">
                             </a>
                         </div>
                     </div>

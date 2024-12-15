@@ -7,7 +7,7 @@
             <h1 class="text-center text-uppercase fw-bold py-2 text-primary">História das HQs</h1>
                 <div class="d-flex flex-md-row flex-row flex-wrap container mt-4 px-3 px-md-0">
                     <div class="col-lg-3 col-6 text-center px-2 order-1 order-md-0">
-                        <img class="img-fluid  rounded-3" src="images/primeira_imagem_vertical_240x480.jpg" alt="imagem vertical de 240x480">
+                        <img class="img-fluid  rounded-3" src="images/hqs/primeira_imagem_vertical_240x480.jpg" alt="imagem vertical de 240x480">
                     </div>
                     <div class="col-lg-6 col-12 order-0 order-md-2 order-lg-1">
 
@@ -26,21 +26,21 @@
                     </div>
                     <div class="d-flex justify-content-between">
                         <figure class="p-3 text-center" style="filter: drop-shadow(0 0 1rem #a3a3a3)">
-                            <img class="rounded-circle img-fluid" src="images/batman_200x200.jpg" alt="imagem do Batman">
+                            <img class="rounded-circle img-fluid" src="images/hqs/personagens/batman_200x200.jpg" alt="imagem do Batman">
                             <figcaption><b>Batman</b></figcaption>
                         </figure>
                         <figure  class=" p-3 text-center" style="filter: drop-shadow(0 0 1rem #1658ad)">  
-                            <img class=" rounded-circle img-fluid" src="images/superman_200x200.jpg" alt="imagem do Superman">
+                            <img class=" rounded-circle img-fluid" src="images/hqs/personagens/superman_200x200.jpg" alt="imagem do Superman">
                             <figcaption><b>Superman</b></figcaption>
                         </figure>
                         <figure  class="p-3 text-center" style="filter: drop-shadow(0 0 1rem #8C1C25)">
-                            <img class="rounded-circle img-fluid" src="images/homem_aranha_200x200.jpg" alt="imagem do homem_aranha">
+                            <img class="rounded-circle img-fluid" src="images/hqs/personagens/homem_aranha_200x200.jpg" alt="imagem do homem_aranha">
                             <figcaption><b>Spider - Man</b></figcaption>
                         </figure>
                     </div>
                 </div>
                 <div class="col-lg-3 col-6 text-center px-2 order-2 order-md-1 order-lg-2">
-                    <img class="img-fluid  rounded-3" src="images/segunda_imagem_vertical_240x480.jpeg.jpg" alt="imagem vertical de 240x480">
+                    <img class="img-fluid  rounded-3" src="images/hqs/segunda_imagem_vertical_240x480.jpeg.jpg" alt="imagem vertical de 240x480">
                 </div>
             </div>
         </main>
@@ -54,7 +54,7 @@
                 <div class="d-flex flex-column flex-md-row gap-3">
                     <div class="sandman clearfix p-2 p-lg-3 shadow w-100 rounded-3">
                         <figure class="p-1 px-md-0 p-lg-1 text-center float-end">
-                            <img src="images/sandman.jpg" alt="capa da HQ Sandman de 30 anos.">
+                            <img src="images/hqs/capas/sandman.jpg" alt="capa da HQ Sandman de 30 anos.">
                             <figcaption class="text-center" style="font-size: small;">
                                 <small>Capa Sandman 30 anos</small>
                             </figcaption>
@@ -70,7 +70,7 @@
 
                     <div class="the_boys clearfix p-2 p-lg-3 shadow w-100 rounded-3">
                         <figure class="p-1 px-md-0 p-lg-1 text-center float-end">
-                            <img src="images/the_boys.jpg" alt="Capa da HQ The Boys volume 05">
+                            <img src="images/hqs/capas/the_boys.jpg" alt="Capa da HQ The Boys volume 05">
                             <figcaption class="text-center" style="font-size: small;">
                                 <small>The Boys Volume 05</small>
                             </figcaption>
@@ -88,7 +88,7 @@
                 <div class="d-flex flex-column flex-md-row gap-3">
                     <div class="umbrella_academy clearfix p-2 p-lg-3 shadow w-100 rounded-3">
                         <figure class="p-1 px-md-0 p-lg-1 text-center float-end">
-                            <img src="images/the_umbrella_academy.jpg" alt="Capa Da HQ The Umbrella Academy volume 08">
+                            <img src="images/hqs/capas/the_umbrella_academy.jpg" alt="Capa Da HQ The Umbrella Academy volume 08">
                             <figcaption class="text-center" style="font-size: small;">
                                 <small>The Umbrella Academy Vol. 08</small>
                             </figcaption>
@@ -104,7 +104,7 @@
 
                     <div class="walking_dead clearfix p-2 p-lg-3 shadow w-100 rounded-3">
                         <figure class="p-1 px-md-0 p-lg-1 text-center float-end">
-                            <img src="images/the_walking_dead.jpg" alt="capa da HQ The Walking Dead volume 31">
+                            <img src="images/hqs/capas/the_walking_dead.jpg" alt="capa da HQ The Walking Dead volume 31">
                             <figcaption class="text-center" style="font-size: small;">
                                 <small>The Walking Dead Volume 31</small>
                             </figcaption>
@@ -134,7 +134,7 @@
                         </div>
                         <div class="text-center">
                             <figure class="px-1">
-                                <img  src="images/deadpool.png" alt="capa hq deadpool" class="img-fluid">
+                                <img  src="images/hqs/capas/deadpool.png" alt="capa hq deadpool" class="img-fluid">
                                 <figcaption style="font-size: small;" class="pt-2">Deadpool Vol.01</figcaption>
                             </figure>
                         </div>
@@ -147,7 +147,7 @@
                         </div>
                         <div class="text-center">
                             <figure class="px-1">
-                                <img  src="images/venom.png" alt="capa hq venom" class="img-fluid">
+                                <img  src="images/hqs/capas/venom.png" alt="capa hq venom" class="img-fluid">
                                 <figcaption style="font-size: small;" class="pt-2">Venom vol.01</figcaption>
                             </figure>
                         </div>
@@ -162,7 +162,7 @@
                         </div>
                         <div class="text-center">
                             <figure class="px-1">
-                                <img src="images/v_vingança.png" alt="capa hq v de vingança" class="img-fluid">
+                                <img src="images/hqs/capas/v_vingança.png" alt="capa hq v de vingança" class="img-fluid">
                                 <figcaption style="font-size: small;" class="pt-2">HQ V De Vingança</figcaption>
                             </figure>
                         </div>
@@ -175,7 +175,7 @@
                         </div>
                         <div class="text-center">
                             <figure class="px-1">
-                                <img src="images/hellboy.png" alt="Capa Hq Hellboy" class="img-fluid">
+                                <img src="images/hqs/capas/hellboy.png" alt="Capa Hq Hellboy" class="img-fluid">
                                 <figcaption style="font-size: small;" class="pt-2">Hellboy The Storm Vol.01</figcaption>
                             </figure>
                         </div>
@@ -196,7 +196,7 @@
                     <div class="mx-auto mt-4 p-2 shadow w-100 rounded-3" style="background-color: white; filter: drop-shadow(0 0 0.5rem #0BD2DE)">
                         <h3 class="pt-4 text-center fw-semibold">Stan Lee</h3>
                         <div class="text-center">
-                            <img class=" rounded-circle p-2 img-fluid" src="images/staan_lee.jpg" alt="uma imagem do autor Stan Lee">
+                            <img class=" rounded-circle p-2 img-fluid" src="images/hqs/quadrinistas/staan_lee.jpg" alt="uma imagem do autor Stan Lee">
                         </div>
                         <p class="p-2">Stan Lee foi um icônico escritor, editor e produtor da indústria dos quadrinhos, conhecido por revolucionar a Marvel Comics. Ele co-criou personagens lendários como Homem-Aranha, X-Men, Homem de Ferro e Quarteto Fantástico, tornando-os figuras centrais da cultura pop. Lee introduziu heróis mais humanos e com falhas, aproximando-os do público. Sua visão criativa e carisma transformaram a Marvel em um fenômeno global, e seu legado vive nos quadrinhos, filmes e séries que continuam a inspirar gerações.</p>
                     </div>
@@ -204,7 +204,7 @@
                     <div class="mx-auto mt-4 p-2 shadow w-100 rounded-3" style="background-color: white; filter: drop-shadow(0 0 0.5rem #0BD2DE)">
                         <h3 class="pt-4 text-center fw-semibold">Mauricio De Souza</h3>
                         <div class="text-center">
-                            <img class="rounded-circle p-2 img-fluid" src="images/mauricio_de_souza.jpg" alt="uma imagem do autor mauricio de souza">
+                            <img class="rounded-circle p-2 img-fluid" src="images/hqs/quadrinistas/mauricio_de_souza.jpg" alt="uma imagem do autor mauricio de souza">
                         </div>
                         <p class="p-2">Mauricio de Sousa é um dos mais renomados quadrinistas brasileiros, criador da Turma da Mônica, uma série de histórias em quadrinhos que conquistou milhões de fãs. Desde os anos 1960, seus personagens carismáticos e aventuras divertidas trouxeram temas de amizade, ética e educação para o público infantil. Hoje, a Turma da Mônica é um ícone da cultura brasileira, expandindo-se para animações, livros e até produções internacionais.</p>
                     </div>
@@ -214,7 +214,7 @@
                     <div class="mx-auto mt-4 p-2 shadow w-100 rounded-3" style="background-color: white; filter: drop-shadow(0 0 0.5rem #0BD2DE)">
                         <h3 class="pt-4 text-center fw-semibold">Carl Barks</h3>
                         <div class="text-center">
-                        <img class="rounded-circle p-2 img-fluid" src="images/carl_barks.jpg" alt="uma imagem do autor Carl Barks">
+                        <img class="rounded-circle p-2 img-fluid" src="images/hqs/quadrinistas/carl_barks.jpg" alt="uma imagem do autor Carl Barks">
                         </div>
                         <p class="p-2">Carl Barks foi um lendário quadrinista e roteirista americano, famoso por seu trabalho com personagens da Disney, especialmente Tio Patinhas e Pato Donald. Ele criou diversas histórias inesquecíveis e desenvolveu o universo dos patos, incluindo a cidade fictícia de Patópolis. Suas histórias combinavam humor, aventura e crítica social, estabelecendo-o como um dos maiores talentos dos quadrinhos e influenciando gerações de leitores e artistas.</p>
                     </div>
@@ -222,7 +222,7 @@
                     <div class="mx-auto mt-4 p-2 shadow w-100 rounded-3" style="background-color: white; filter: drop-shadow(0 0 0.5rem #0BD2DE)">
                         <h3 class="pt-4 text-center fw-semibold">Jerry Siegel</h3>
                         <div class="text-center">
-                        <img class="rounded-circle p-2 img-fluid" src="images/jerry_siegel.jpg" alt="Uma imagem do autor Jerry Siegel">
+                        <img class="rounded-circle p-2 img-fluid" src="images/hqs/quadrinistas/jerry_siegel.jpg" alt="Uma imagem do autor Jerry Siegel">
                         </div>
                         <p class="p-2">Jerry Siegel foi um roteirista americano e, junto com o desenhista Joe Shuster, criou o Superman em 1938, personagem que revolucionou o mundo dos quadrinhos. A criação de Superman deu origem ao gênero dos super-heróis, influenciando a cultura pop e inspirando inúmeros heróis que vieram depois. Siegel é lembrado como um dos pioneiros das histórias em quadrinhos e um dos maiores nomes da era de ouro dos quadrinhos.</p>
                     </div>

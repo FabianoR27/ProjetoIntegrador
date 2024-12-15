@@ -11,7 +11,7 @@
                 <p class="lead pt-4">Descubra quem são os grandes nomes que estarão presentes na Fatecon 2024, compartilhando experiências, ideias, historias e momentos incriveis. Prepare-se para uma programação incrível com diversos artistas de varios genêros, estilos e traços marcantes!</p>
             </div>
             <div class="col-lg-5">
-                <img class="img-fluid rounded-3" src="images/expositores.webp" alt="Expositores">
+                <img class="img-fluid rounded-3" src="images/expositores/expositores.webp" alt="Expositores">
             </div>
         </div>
     </article>
@@ -23,7 +23,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/leon-silva-zoccaratto.webp" alt="Expositor Leon Silva">
+                    <img class="img-fluid" src="images/expositores/leon-silva-zoccaratto.webp" alt="Expositor Leon Silva">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX1" aria-expanded="false" aria-controls="resumoX1">
                     <h3 class="mb-2 fs-4 fw-semibold">Leon Silva Zoccaratto</h3>
@@ -39,7 +39,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/helena-cunha.webp" alt="Expositora Helena Cunha">
+                    <img class="img-fluid" src="images/expositores/helena-cunha.webp" alt="Expositora Helena Cunha">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX2" aria-expanded="false" aria-controls="resumoX2">
                     <h3 class="mb-2 fs-4 fw-semibold">Helena Cunha</h3>
@@ -55,7 +55,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/aikau.webp" alt="Expositor Aikau">
+                    <img class="img-fluid" src="images/expositores/aikau.webp" alt="Expositor Aikau">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX3" aria-expanded="false" aria-controls="resumoX3">
                     <h3 class="mb-2 fs-4 fw-semibold">Aikau Leão Morato Meloni</h3>
@@ -71,7 +71,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/diogo-mendes.webp" alt="Expositor Diogo Mendes">
+                    <img class="img-fluid" src="images/expositores/diogo-mendes.webp" alt="Expositor Diogo Mendes">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX4" aria-expanded="false" aria-controls="resumoX4">
                     <h3 class="mb-2 fs-4 fw-semibold">Diogo Mendes</h3>
@@ -87,7 +87,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/bira-dantas.webp" alt="Expositor Bira Dantas">
+                    <img class="img-fluid" src="images/expositores/bira-dantas.webp" alt="Expositor Bira Dantas">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX5" aria-expanded="false" aria-controls="resumoX5">
                     <h3 class="mb-2 fs-4 fw-semibold">Bira Dantas</h3>
@@ -103,7 +103,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/gilmar.webp" alt="Expositor Gilmar">
+                    <img class="img-fluid" src="images/expositores/gilmar.webp" alt="Expositor Gilmar">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX6" aria-expanded="false" aria-controls="resumoX6">
                     <h3 class="mb-2 fs-4 fw-semibold">Gilmar</h3>
@@ -119,7 +119,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/yuri-andrey.webp" alt="Expositor Yuri">
+                    <img class="img-fluid" src="images/expositores/yuri-andrey.webp" alt="Expositor Yuri">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX7" aria-expanded="false" aria-controls="resumoX7">
                     <h3 class="mb-2 fs-4 fw-semibold">Yuri Andrey</h3>
@@ -135,7 +135,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/dalila.webp" alt="Expositora Dalila">
+                    <img class="img-fluid" src="images/expositores/dalila.webp" alt="Expositora Dalila">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX8" aria-expanded="false" aria-controls="resumoX8">
                     <h3 class="mb-2 fs-4 fw-semibold">Dalila (Fiapo)</h3>
@@ -151,7 +151,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/stefano.webp" alt="Expositor Stefano">
+                    <img class="img-fluid" src="images/expositores/stefano.webp" alt="Expositor Stefano">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX9" aria-expanded="false" aria-controls="resumoX9">
                     <h3 class="mb-2 fs-4 fw-semibold">Al Stefano</h3>
@@ -167,7 +167,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/clemira.webp" alt="Expositora Clemira">
+                    <img class="img-fluid" src="images/expositores/clemira.webp" alt="Expositora Clemira">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX10" aria-expanded="false" aria-controls="resumoX10">
                     <h3 class="mb-2 fs-4 fw-semibold">Clemira</h3>
@@ -183,7 +183,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/daniel-esteves.webp" alt="Expositor Daniel Esteves">
+                    <img class="img-fluid" src="images/expositores/daniel-esteves.webp" alt="Expositor Daniel Esteves">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX11" aria-expanded="false" aria-controls="resumoX11">
                     <h3 class="mb-2 fs-4 fw-semibold">Daniel Esteves</h3>
@@ -199,7 +199,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/paulo-batista.webp" alt="Expositor Paulo Batista">
+                    <img class="img-fluid" src="images/expositores/paulo-batista.webp" alt="Expositor Paulo Batista">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX12" aria-expanded="false" aria-controls="resumoX12">
                     <h3 class="mb-2 fs-4 fw-semibold">Paulo Batista</h3>
@@ -215,7 +215,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/rebeca-armus.webp" alt="Expositora Rebeca Armus">
+                    <img class="img-fluid" src="images/expositores/rebeca-armus.webp" alt="Expositora Rebeca Armus">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX13" aria-expanded="false" aria-controls="resumoX13">
                     <h3 class="mb-2 fs-4 fw-semibold">Rebeca Armus</h3>
@@ -231,7 +231,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/vivi-munhoz.webp" alt="Expositora Vivi Munhoz">
+                    <img class="img-fluid" src="images/expositores/vivi-munhoz.webp" alt="Expositora Vivi Munhoz">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX14" aria-expanded="false" aria-controls="resumoX14">
                     <h3 class="mb-2 fs-4 fw-semibold">Vivi Munhoz</h3>
@@ -247,7 +247,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/ede-galileu.webp" alt="Expositor Ede Galileu">
+                    <img class="img-fluid" src="images/expositores/ede-galileu.webp" alt="Expositor Ede Galileu">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX15" aria-expanded="false" aria-controls="resumoX15">
                     <h3 class="mb-2 fs-4 fw-semibold">Ede Galileu</h3>
@@ -264,7 +264,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/gui-feliciano.webp" alt="Expositor Guilherme Feliciano">
+                    <img class="img-fluid" src="images/expositores/gui-feliciano.webp" alt="Expositor Guilherme Feliciano">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX16" aria-expanded="false" aria-controls="resumoX16">
                     <h3 class="mb-2 fs-4 fw-semibold">Guilherme Feliciano</h3>
@@ -281,7 +281,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/marcos-venceslau.webp" alt="Expositor Marcos Venceslau">
+                    <img class="img-fluid" src="images/expositores/marcos-venceslau.webp" alt="Expositor Marcos Venceslau">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX17" aria-expanded="false" aria-controls="resumoX17">
                     <h3 class="mb-2 fs-4 fw-semibold">Marcos Venceslau</h3>
@@ -298,7 +298,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/douglas-docelino.webp" alt="Expositor Douglas Docelino">
+                    <img class="img-fluid" src="images/expositores/douglas-docelino.webp" alt="Expositor Douglas Docelino">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX18" aria-expanded="false" aria-controls="resumoX18">
                     <h3 class="mb-2 fs-4 fw-semibold">Douglas Docelino</h3>
@@ -314,7 +314,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/safira-lopes.webp" alt="Expositora Safira Lopes Machado">
+                    <img class="img-fluid" src="images/expositores/safira-lopes.webp" alt="Expositora Safira Lopes Machado">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX19" aria-expanded="false" aria-controls="resumoX19">
                     <h3 class="mb-2 fs-4 fw-semibold">Safira Lopes Machado</h3>
@@ -330,7 +330,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/digo-freitas.webp" alt="Expositor Digo Freitas">
+                    <img class="img-fluid" src="images/expositores/digo-freitas.webp" alt="Expositor Digo Freitas">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX20" aria-expanded="false" aria-controls="resumoX20">
                     <h3 class="mb-2 fs-4 fw-semibold">Digo Freitas</h3>
@@ -346,7 +346,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/jack-azulita.webp" alt="Expositor Jack Azulita">
+                    <img class="img-fluid" src="images/expositores/jack-azulita.webp" alt="Expositor Jack Azulita">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX21" aria-expanded="false" aria-controls="resumoX21">
                     <h3 class="mb-2 fs-4 fw-semibold">Jack Azulita</h3>
@@ -362,7 +362,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/laura-han.webp" alt="Expositora Laura Han Jin">
+                    <img class="img-fluid" src="images/expositores/laura-han.webp" alt="Expositora Laura Han Jin">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX22" aria-expanded="false" aria-controls="resumoX22">
                     <h3 class="mb-2 fs-4 fw-semibold">Laura Han Jin</h3>
@@ -378,7 +378,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/fernando-dep.webp" alt="Expositor Fernando DeP">
+                    <img class="img-fluid" src="images/expositores/fernando-dep.webp" alt="Expositor Fernando DeP">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX23" aria-expanded="false" aria-controls="resumoX23">
                     <h3 class="mb-2 fs-4 fw-semibold">Fernando DeP</h3>
@@ -394,7 +394,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/marco-cortez.webp" alt="Expositor Marco A. Cortez">
+                    <img class="img-fluid" src="images/expositores/marco-cortez.webp" alt="Expositor Marco A. Cortez">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX24" aria-expanded="false" aria-controls="resumoX24">
                     <h3 class="mb-2 fs-4 fw-semibold">Marco A. Cortez</h3>
@@ -410,7 +410,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/vavis.webp" alt="Expositora Vavis">
+                    <img class="img-fluid" src="images/expositores/vavis.webp" alt="Expositora Vavis">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX25" aria-expanded="false" aria-controls="resumoX25">
                     <h3 class="mb-2 fs-4 fw-semibold">Vavis</h3>
@@ -426,7 +426,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/aya-andrade.webp" alt="Expositora Aya Andrade">
+                    <img class="img-fluid" src="images/expositores/aya-andrade.webp" alt="Expositora Aya Andrade">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX26" aria-expanded="false" aria-controls="resumoX26">
                     <h3 class="mb-2 fs-4 fw-semibold">Aya Andrade</h3>
@@ -442,7 +442,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/larissa-palmieri.webp" alt="Expositora Larissa Palmieri">
+                    <img class="img-fluid" src="images/expositores/larissa-palmieri.webp" alt="Expositora Larissa Palmieri">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX27" aria-expanded="false" aria-controls="resumoX27">
                     <h3 class="mb-2 fs-4 fw-semibold">Larissa Palmieri</h3>
@@ -458,7 +458,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/alexandre-esquitini.webp" alt="Expositora Alexandre Esquitini">
+                    <img class="img-fluid" src="images/expositores/alexandre-esquitini.webp" alt="Expositora Alexandre Esquitini">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX28" aria-expanded="false" aria-controls="resumoX28">
                     <h3 class="mb-2 fs-4 fw-semibold">Alexandre Esquitini</h3>
@@ -474,7 +474,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/regis-rocha.webp" alt="Expositora Régis Rocha">
+                    <img class="img-fluid" src="images/expositores/regis-rocha.webp" alt="Expositora Régis Rocha">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX29" aria-expanded="false" aria-controls="resumoX29">
                     <h3 class="mb-2 fs-4 fw-semibold">Régis Rocha</h3>
@@ -490,7 +490,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/federico-aquino.webp" alt="Expositora Federico de Aquino">
+                    <img class="img-fluid" src="images/expositores/federico-aquino.webp" alt="Expositora Federico de Aquino">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX30" aria-expanded="false" aria-controls="resumoX30">
                     <h3 class="mb-2 fs-4 fw-semibold">Federico de Aquino</h3>
@@ -506,7 +506,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/bruno-weber.webp" alt="Expositor Bruno Weber">
+                    <img class="img-fluid" src="images/expositores/bruno-weber.webp" alt="Expositor Bruno Weber">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX31" aria-expanded="false" aria-controls="resumoX31">
                     <h3 class="mb-2 fs-4 fw-semibold">Bruno Weber</h3>
@@ -522,7 +522,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/erik-braz.webp" alt="Expositor Erik Blaz">
+                    <img class="img-fluid" src="images/expositores/erik-braz.webp" alt="Expositor Erik Blaz">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX32" aria-expanded="false" aria-controls="resumoX32">
                     <h3 class="mb-2 fs-4 fw-semibold">Erik Blaz</h3>
@@ -538,7 +538,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/deivs-mello.webp" alt="Expositor Deivs Mello">
+                    <img class="img-fluid" src="images/expositores/deivs-mello.webp" alt="Expositor Deivs Mello">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX33" aria-expanded="false" aria-controls="resumoX33">
                     <h3 class="mb-2 fs-4 fw-semibold">Deivs Mello</h3>
@@ -554,7 +554,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/lexy-soares.webp" alt="Expositor Lexy Soares">
+                    <img class="img-fluid" src="images/expositores/lexy-soares.webp" alt="Expositor Lexy Soares">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX34" aria-expanded="false" aria-controls="resumoX34">
                     <h3 class="mb-2 fs-4 fw-semibold">Lexy Soares</h3>
@@ -570,7 +570,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/felipe-manhaes.webp" alt="Expositor Felipe Manhães">
+                    <img class="img-fluid" src="images/expositores/felipe-manhaes.webp" alt="Expositor Felipe Manhães">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX35" aria-expanded="false" aria-controls="resumoX35">
                     <h3 class="mb-2 fs-4 fw-semibold">Felipe Manhães</h3>
@@ -586,7 +586,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/mago-pool.webp" alt="Expositora Magô Pool">
+                    <img class="img-fluid" src="images/expositores/mago-pool.webp" alt="Expositora Magô Pool">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX36" aria-expanded="false" aria-controls="resumoX36">
                     <h3 class="mb-2 fs-4 fw-semibold">Magô Pool</h3>
@@ -602,7 +602,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/maju-montero.webp" alt="Expositora Maju Montero">
+                    <img class="img-fluid" src="images/expositores/maju-montero.webp" alt="Expositora Maju Montero">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX37" aria-expanded="false" aria-controls="resumoX37">
                     <h3 class="mb-2 fs-4 fw-semibold">Maju Montero</h3>
@@ -618,7 +618,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/heavy-salsa.webp" alt="Expositora Heavy & Salsa">
+                    <img class="img-fluid" src="images/expositores/heavy-salsa.webp" alt="Expositora Heavy & Salsa">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX38" aria-expanded="false" aria-controls="resumoX38">
                     <h3 class="mb-2 fs-4 fw-semibold">Heavy & Salsa</h3>
@@ -635,7 +635,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/israel-neto.webp" alt="Expositor Israel Neto">
+                    <img class="img-fluid" src="images/expositores/israel-neto.webp" alt="Expositor Israel Neto">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX39" aria-expanded="false" aria-controls="resumoX39">
                     <h3 class="mb-2 fs-4 fw-semibold">Israel Neto</h3>
@@ -651,7 +651,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/ronald-souz.webp" alt="Expositor Ronald Souz">
+                    <img class="img-fluid" src="images/expositores/ronald-souz.webp" alt="Expositor Ronald Souz">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX40" aria-expanded="false" aria-controls="resumoX40">
                     <h3 class="mb-2 fs-4 fw-semibold">Ronald Souz</h3>
@@ -667,7 +667,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/andre-freitas.webp" alt="Expositor André Freitas">
+                    <img class="img-fluid" src="images/expositores/andre-freitas.webp" alt="Expositor André Freitas">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX41" aria-expanded="false" aria-controls="resumoX41">
                     <h3 class="mb-2 fs-4 fw-semibold">André Freitas</h3>
@@ -683,7 +683,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <div class="border p-4 expositores bg-light shadow">
                 <aside class="mb-3">
-                    <img class="img-fluid" src="images/grazi-diffonso.webp" alt="Expositora Grazi Diffonso">
+                    <img class="img-fluid" src="images/expositores/grazi-diffonso.webp" alt="Expositora Grazi Diffonso">
                 </aside>
                 <div class="collapsible-header d-flex cursormao text-dark" role="button" data-bs-toggle="collapse" data-bs-target="#resumoX42" aria-expanded="false" aria-controls="resumoX42">
                     <h3 class="mb-2 fs-4 fw-semibold">Grazi Diffonso</h3>

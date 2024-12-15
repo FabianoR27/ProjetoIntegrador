@@ -23,7 +23,7 @@
                         </p>
                     </div>
                     <div class="col-12 col-md-4 text-center text-md-end mt-3 mt-md-0">
-                        <img src="images/funcao-site.webp" alt="Função do site" class="img-fluid">
+                        <img src="images/normas/funcao-site.webp" alt="Função do site" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                         </p>
                     </div>
                     <div class="col-12 col-md-4 text-center text-md-end mt-3 mt-md-0">
-                        <img src="images/acesso-site.webp" alt="Acesso ao site" class="img-fluid">
+                        <img src="images/normas/acesso-site.webp" alt="Acesso ao site" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                         </p>
                     </div>
                     <div class="col-12 col-md-4 text-center text-md-end mt-3 mt-md-0">
-                        <img src="images/uso-e-copia.webp" alt="Licença de uso e cópia" class="img-fluid">
+                        <img src="images/normas/uso-e-copia.webp" alt="Licença de uso e cópia" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -89,7 +89,7 @@
                         </p>
                     </div>
                     <div class="col-12 col-md-4 text-center text-md-end mt-3 mt-md-0">
-                        <img src="images/obrigacoes.webp" alt="Obrigações" class="img-fluid">
+                        <img src="images/normas/obrigacoes.webp" alt="Obrigações" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -111,7 +111,7 @@
                         </p>
                     </div>
                     <div class="col-12 col-md-4 text-center text-md-end mt-3 mt-md-0">
-                        <img src="images/termos-gerais.webp" alt="Termos gerais" class="img-fluid">
+                        <img src="images/normas/termos-gerais.webp" alt="Termos gerais" class="img-fluid">
                     </div>
                 </div>
             </div>

@@ -1,5 +1,7 @@
 <?php include "includes/header.php"; ?>
 <div class="container-fluid p-0 text-white">
+
+    <!-- Assunto: Diviulgação do evento -->
     <main class="py-lg-5 py-md-5 py-sm-0 my-2 clearfix">
         <div class="container my-2 ">
             <h1 class="text-center fw-bold text-warning py-2">FATECon HQs 2024: A Maior Celebração da Cultura Geek e  Quadrinhos de São Roque Está de Volta!</h1>
@@ -17,12 +19,13 @@
                 </div>
                 
                 <div class="col-12 col-md-5 mt-4 p-3 py-md-0 text-center text-md-end">
-                    <img class="img-fluid text-center rounded-3 border border-primary" src="images/FATECon.png" alt="Banner FATECon">
+                    <img class="img-fluid text-center rounded-3 border border-primary" src="images/atracoes/FATECon.png" alt="Banner FATECon">
                 </div>
             </div>
         </div>
     </main>
 
+    <!-- Atrações da Fatecon -->
     <article class="py-lg-5 py-md-5 py-sm-0 clearfix">
         <div class="container my-2">
             <h2 class="h1 text-center fw-bold py-2 text-warning">ATRAÇÕES</h2>
@@ -31,7 +34,7 @@
                 <div class="d-flex flex-column flex-md-row justify-content-evenly align-items-stretch w-100 gap-3">
                     <div class="mt-4 p-4 border border-warning rounded-3 shadow-sm bg-dark w-100">
                         <div class="text-center p-4">
-                            <img  src="images/desenhesr.png" alt="Desenhe São Roque" class=" img-fluid text-center rounded">
+                            <img  src="images/atracoes/desenhesr.png" alt="Desenhe São Roque" class=" img-fluid text-center rounded">
                         </div>
                         <h2 class="h3 py-2 fw-semibold text-warning">CONCURSO "DESENHE SÃO ROQUE 2024"</h2>
                         <p class="pt-2">
@@ -41,7 +44,7 @@
                     
                     <div class="mt-4 p-4 border border-warning rounded-3 shadow-sm bg-dark w-100">
                         <div class="text-center p-4">
-                            <img src="images/desfile.png" alt="desenho da galera" class="img-fluid text-center rounded">
+                            <img src="images/atracoes/desfile.png" alt="desenho da galera" class="img-fluid text-center rounded">
                         </div>
                         <h2 class="h3 py-2 fw-semibold text-warning">DESFILE COSPLAYER</h2>
                         <p class="pt-2">
@@ -53,7 +56,7 @@
                 <div class="d-flex flex-column flex-md-row justify-content-evenly align-items-stretch w-100 gap-3">
                     <div class="mt-4 p-4 border border-warning rounded-3 shadow-sm bg-dark w-100">
                         <div class="text-center p-4">
-                            <img  src="images/oficinadesenho.png" alt="cospla" class="img-fluid text-center rounded">
+                            <img  src="images/atracoes/oficinadesenho.png" alt="cospla" class="img-fluid text-center rounded">
                         </div>
                         <h2 class="h3 py-2 fw-semibold text-warning">OFICINAS E CRIAÇÃO DE PERSONAGEM</h2>
                         <p class="pt-2">
@@ -63,7 +66,7 @@
                     
                     <div class="mt-4 p-4 border border-warning rounded-3 shadow-sm bg-dark w-100">
                         <div class="text-center p-4">
-                            <img src="images/palestrante.png" alt="desenho da galera" class="img-fluid text-center rounded">
+                            <img src="images/atracoes/palestrante.png" alt="desenho da galera" class="img-fluid text-center rounded">
                         </div>
                         <h2 class="h3 py-2 fw-semibold text-warning">PALESTRAS E MESA REDONDA</h2>
                         <p class="pt-2">
@@ -75,6 +78,7 @@
         </div>
     </article>
 
+    <!-- Seção de autores na FAtecon -->
     <section class="py-lg-5 py-md-5 py-sm-0 clearfix" style="background-color: #033e8c;">
         <div class="container my-2">
             <h3 class="h1 text-center text-light fw-bold py-2">AUTORES QUE ESTARÃO NA NOSSA FATECON</h3>
@@ -88,50 +92,50 @@
 
                 <ul class="d-flex overflow-x-scroll list-unstyled py-2" id="imageContainer">
                     <li class="mx-1 mx-md-2">
-                        <img src="images/atracoes_rafaelmarcal.png" class="figure-img rounded-3" alt="Rafael Marçal">
+                        <img src="images/atracoes/autores/atracoes_rafaelmarcal.png" class="figure-img rounded-3" alt="Rafael Marçal">
                         <h4 class="text-start m-0 text-light"> RAFAEL MARÇAL</h4>
                     </li>
 
                     <li class="mx-1 mx-md-2">
-                        <img src="images/atracoes_cecilia.png" class="figure-img rounded-3" alt="Cecília Martins">
+                        <img src="images/atracoes/autores/atracoes_cecilia.png" class="figure-img rounded-3" alt="Cecília Martins">
                         <h4 class="text-start m-0 text-light">CECILIA MARINS</h4>
                     </li>
                     <li class="mx-1 mx-md-2">
-                        <img src="images/atracoes_gilmar.png" class="figure-img rounded-3" alt="Gilmar">
+                        <img src="images/atracoes/autores/atracoes_gilmar.png" class="figure-img rounded-3" alt="Gilmar">
                         <h4 class="text-start m-0 text-light">GILMAR</h4>
                     </li>
 
                     <li class="mx-1 mx-md-2">
-                        <img src="images/atracoes_regis.png" class="figure-img rounded-3" alt="Regis Rcha">
+                        <img src="images/atracoes/autores/atracoes_regis.png" class="figure-img rounded-3" alt="Regis Rcha">
                         <h4 class="text-start m-0 text-light">REGIS ROCHA</h4>
                     </li>
                     <li class="mx-1 mx-md-2">
-                        <img src="images/atracoes_lillo.png" class="figure-img rounded-3" alt="Lillo">
+                        <img src="images/atracoes/autores/atracoes_lillo.png" class="figure-img rounded-3" alt="Lillo">
                         <h4 class="text-start m-0 text-light">LILLO </h4>
                     </li>
                     
                     <li class="mx-1 mx-md-2">
-                        <img src="images/atracoes_dalila.png" class="figure-img rounded-3" alt="Dalila Martins">
+                        <img src="images/atracoes/autores/atracoes_dalila.png" class="figure-img rounded-3" alt="Dalila Martins">
                         <h4 class="text-start m-0 text-light">DALILA DINIZ</h4>
                     </li>
 
                     <li class="mx-1 mx-md-2">
-                        <img src="images/atracoes_maju.png" class="figure-img rounded-3" alt="Maju Monteiro">
+                        <img src="images/atracoes/autores/atracoes_maju.png" class="figure-img rounded-3" alt="Maju Monteiro">
                         <h4 class="text-start m-0 text-light">MAJU MONTEIRO</h4>
                     </li>
 
                     <li class="mx-1 mx-md-2">
-                        <img src="images/atracoes_larissa.png" class="figure-img rounded-3" alt="Larissa">
+                        <img src="images/atracoes/autores/atracoes_larissa.png" class="figure-img rounded-3" alt="Larissa">
                         <h4 class="text-start m-0 text-light">LARISSA</h4>
                     </li>
 
                     <li class="mx-1 mx-md-2">
-                        <img src="images/atracoes_mago.png" class="figure-img rounded-3" alt="Mago">
+                        <img src="images/atracoes/autores/atracoes_mago.png" class="figure-img rounded-3" alt="Mago">
                         <h4 class="text-start m-0 text-light">MAGO</h4>
                     </li>
 
                     <li class="mx-1 mx-md-2">
-                        <img src="images/atracoes_bira.png" class="figure-img rounded-3" alt="Bira Dantas">
+                        <img src="images/atracoes/autores/atracoes_bira.png" class="figure-img rounded-3" alt="Bira Dantas">
                         <h4 class="text-start m-0 text-light">BIRA DANTAS</h4>
                     </li>
                 </ul>
@@ -139,6 +143,8 @@
         </div>
     </section>
 
+
+    <!-- Galeria de imagens -->
     <section class="py-lg-5 py-md-5 py-sm-0 clearfix">
         <div class="container my-2">
             <h3 class="h1 text-center text-primary fw-bold py-2">UM POUCO DA FATECON 2023</h3>
@@ -146,16 +152,16 @@
             <p class="pt-4 fs-4"> Em 2023 a feira geek foi realizada nos dias 12 e 13 de maio no Recanto da Cascata, sendo essa a segunda edição do evento, e foi um sucesso, contou com mais de 80 artistas, desfile de cosplay, palestras, workshops e não poderia faltar o concurso "Desenhe São Roque".</p>
 
             <div class="d-flex flex-wrap justify-content-center gap-3 ft-ftc user-select-none">
-                <img class="ft2023" src="images/fatecon1.png" alt="fotos do evento 2023" tabindex="0">
-                <img class="ft2023" src="images/fatecon2.png" alt="fotos do evento 2023" tabindex="0">
-                <img class="ft2023" src="images/fatecon3.png" alt="fotos do evento 2023" tabindex="0">
-                <img class="ft2023" src="images/fatecon4.png" alt="fotos do evento 2023" tabindex="0">
-                <img class="ft2023" src="images/fatecon5.png" alt="fotos do evento 2023" tabindex="0">
-                <img class="ft2023" src="images/fatecon6.png" alt="fotos do evento 2023" tabindex="0">
-                <img class="ft2023" src="images/fatecon7.png" alt="fotos do evento 2023" tabindex="0">
-                <img class="ft2023" src="images/fatecon8.png" alt="fotos do evento 2023" tabindex="0">
-                <img class="ft2023" src="images/artfatecon9.png" alt="fotos do evento 2023" tabindex="0">
-                <img class="ft2023" src="images/artfatecon10.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/atracoes/galeria/fatecon1.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/atracoes/galeria/fatecon2.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/atracoes/galeria/fatecon3.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/atracoes/galeria/fatecon4.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/atracoes/galeria/fatecon5.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/atracoes/galeria/fatecon6.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/atracoes/galeria/fatecon7.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/atracoes/galeria/fatecon8.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/atracoes/galeria/artfatecon9.png" alt="fotos do evento 2023" tabindex="0">
+                <img class="ft2023" src="images/atracoes/galeria/artfatecon10.png" alt="fotos do evento 2023" tabindex="0">
             </div>
         </div>
     </section>

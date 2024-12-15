@@ -13,7 +13,7 @@
 
                         <small>Por: Fabiano Ramos.</small>
                         <div class="text-end">
-                            <img src="images/anime_character_zoro.webp" alt="Roronoa Zoro" class="img-fluid m-auto my-2 rounded-3">
+                            <img src="images/animes/anime_character_zoro.webp" alt="Roronoa Zoro" class="img-fluid m-auto my-2 rounded-3">
                             <small> NA IMAGEM: Roronoa Zoro.</small>
                         </div>
 
@@ -34,7 +34,7 @@
                         <h2 class="text-uppercase text-center text-warning fw-semibold">10 curisodades sobre animes e mangás:</h2>
                         
                         <div class="text-center m-auto">
-                            <img src="images/anime_character_luffy.webp" alt="Luffy do Chapéu de Palha" class="p-2 rounded-4 img-fluid">
+                            <img src="images/animes/anime_character_luffy.webp" alt="Luffy do Chapéu de Palha" class="p-2 rounded-4 img-fluid">
                         </div>
                         
                         <ol class="py-2 lh-base">
@@ -86,7 +86,7 @@
                         <li class="mx-1 mx-md-2" id="anime1">
                             <div class="clearfix zoom-img mt-1">
                                 <a href="includes/anime-onePiece.php" class="load-content link-dark link-underline-opacity-0">
-                            <img title="Clique e veja logo abaixo"src="images/anime_one_piece_sm.webp" class="figure-img rounded-3" alt="One Piece">
+                            <img title="Clique e veja logo abaixo"src="images/animes/anime_one_piece_sm.webp" class="figure-img rounded-3" alt="One Piece">
                                     <h4 class="text-start m-0 fw-semibold" lang="en-us">One Piece</h4>
                                 </a>
                             </div>
@@ -95,7 +95,7 @@
                         <li class="mx-1 mx-md-2" id="anime2">
                             <div class="clearfix zoom-img mt-1">
                                 <a title="Clique e veja logo abaixo" href="includes/anime-naruto.php" class="load-content link-dark link-underline-opacity-0">
-                                    <img src="images/anime_naruto_sm.webp" class="figure-img rounded-3" alt="Naruto Shippuden ">
+                                    <img src="images/animes/anime_naruto_sm.webp" class="figure-img rounded-3" alt="Naruto Shippuden ">
                                     <h4 class="text-start m-0 fw-semibold">Naruto Shippuden</h4>
                                 </a>
                             </div>
@@ -104,7 +104,7 @@
                         <li class="mx-1 mx-md-2" id="anime3">
                             <div class="clearfix zoom-img mt-1">
                                 <a title="Clique e veja logo abaixo" href="includes/anime-dragonBall.php" class="load-content link-dark link-underline-opacity-0">
-                                    <img src="images/anime_dragon_ball_sm.webp" class="figure-img rounded-3" alt="Dragon Ball Z">
+                                    <img src="images/animes/anime_dragon_ball_sm.webp" class="figure-img rounded-3" alt="Dragon Ball Z">
                                     <h4 class="text-start m-0 fw-semibold" lang="en-us">Dragon Ball Z</h4>
                                 </a>
                             </div>
@@ -113,7 +113,7 @@
                         <li class="mx-1 mx-md-2" id="anime4">
                             <div class="clearfix zoom-img mt-1">
                                 <a title="Clique e veja logo abaixo" href="includes/anime-attackOnTitan.php" class="load-content link-dark link-underline-opacity-0">
-                                    <img src="images/anime_attack_on_titan_sm.webp" class="figure-img rounded-3" alt="Attack On Titan">
+                                    <img src="images/animes/anime_attack_on_titan_sm.webp" class="figure-img rounded-3" alt="Attack On Titan">
                                     <h4 class="text-start m-0 fw-semibold" lang="en-us">Attack On Titan</h4>
                                 </a>
                             </div>
@@ -122,7 +122,7 @@
                         <li class="mx-1 mx-md-2" id="anime5">
                             <div class="clearfix zoom-img mt-1">
                                 <a title="Clique e veja logo abaixo" href="includes/anime-deathNote.php" class="load-content link-dark link-underline-opacity-0">
-                                    <img src="images/anime_death_note_sm.webp" class="figure-img rounded-3" alt="Death Note">
+                                    <img src="images/animes/anime_death_note_sm.webp" class="figure-img rounded-3" alt="Death Note">
                                     <h4 class="text-start m-0 fw-semibold" lang="en-us">Death Note</h4>
                                 </a>
                             </div>
@@ -131,7 +131,7 @@
                         <li class="mx-1 mx-md-2" id="anime6">
                             <div class="clearfix zoom-img mt-1">
                                 <a title="Clique e veja logo abaixo" href="includes/anime-chainsawMan.php" class="load-content link-dark link-underline-opacity-0">
-                                    <img src="images/anime_chainsaw_man_sm.webp" class="figure-img rounded-3" alt="Chainsaw Man">
+                                    <img src="images/animes/anime_chainsaw_man_sm.webp" class="figure-img rounded-3" alt="Chainsaw Man">
                                     <h4 class="text-start m-0 fw-semibold" lang="en-us">Chainsaw Man</h4>
                                 </a>
                             </div>
@@ -140,7 +140,7 @@
                         <li class="mx-1 mx-md-2" id="anime7">
                             <div class="clearfix zoom-img mt-1">
                                 <a title="Clique e veja logo abaixo" href="includes/anime-cowboyBebop.php" class="load-content link-dark link-underline-opacity-0">
-                                    <img src="images/anime_cowboy_bebop_sm.webp" class="figure-img rounded-3" alt="Cowboy Bebop">
+                                    <img src="images/animes/anime_cowboy_bebop_sm.webp" class="figure-img rounded-3" alt="Cowboy Bebop">
                                     <h4 class="text-start m-0 fw-semibold">Cowboy Bebop</h4>
                                 </a>
                             </div>
@@ -149,7 +149,7 @@
                         <li class="mx-1 mx-md-2" id="anime8">
                             <div class="clearfix zoom-img mt-1">
                                 <a title="Clique e veja logo abaixo" href="includes/anime-onePunchMan.php" class="load-content link-dark link-underline-opacity-0">
-                                    <img src="images/anime_one_punch_man_sm.webp" class="figure-img rounded-3" alt="One Punch Man">
+                                    <img src="images/animes/anime_one_punch_man_sm.webp" class="figure-img rounded-3" alt="One Punch Man">
                                     <h4 class="text-start m-0 fw-semibold" lang="en-us">One Punch Man</h4>
                                 </a>
                             </div>
@@ -158,7 +158,7 @@
                         <li class="mx-1 mx-md-2" id="anime9">
                             <div class="clearfix zoom-img mt-1">
                                 <a title="Clique e veja logo abaixo" href="includes/anime-jujutsuKaisen.php" class="load-content link-dark link-underline-opacity-0">
-                                    <img src="images/anime_jujutsu_kaisen_sm.webp" class="figure-img rounded-3" alt="Jujutsu Kaisen">
+                                    <img src="images/animes/anime_jujutsu_kaisen_sm.webp" class="figure-img rounded-3" alt="Jujutsu Kaisen">
                                     <h4 class="text-start m-0 fw-semibold">Jujutsu Kaisen</h4>
                                 </a>
                             </div>
@@ -167,7 +167,7 @@
                         <li class="mx-1 mx-md-2" id="anime10">
                             <div class="clearfix zoom-img mt-1">
                                 <a title="Clique e veja logo abaixo" href="includes/anime-demonSlayer.php" class="load-content link-dark link-underline-opacity-0">
-                                    <img src="images/anime_demon_slayer_sm.webp" class="figure-img rounded-3" alt="Demon Slayer">
+                                    <img src="images/animes/anime_demon_slayer_sm.webp" class="figure-img rounded-3" alt="Demon Slayer">
                                     <h4 class="text-start m-0 fw-semibold" lang="en-us">Demon Slayer</h4>
                                 </a>
                             </div>

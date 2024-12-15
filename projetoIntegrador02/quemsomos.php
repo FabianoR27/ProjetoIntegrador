@@ -3,7 +3,7 @@
 <div class="container-fluid px-0 text-light">
     <main class="p-0 py-md-2">
         <div class="container my-5 p-3 p-md-5">
-            <h1 class=" text-uppercase my-4 text-danger fw-bold">Antes de mais nada, leia este Disclaimer <i class="bi bi-exclamation-triangle"></i></h1>
+            <h1 class=" text-uppercase my-4 text-danger fw-bold"><i class="bi bi-exclamation-triangle"></i> Antes de mais nada, leia este Disclaimer! </h1>
             <p class="lead">Este portal é um projeto acadêmico desenvolvido por mim, Fabiano Ramos, e minha equipe para o segundo semestre do curso de Sistemas para Internet, da FATEC-SR. Foi entregue e avaliado com sucesso, conquistando nota máxima. Esta versão é uma personalização feita por mim, alinhada à minha visão do projeto, mas quero aqui dedicar e agradecer a todos os integrantes do time (e amigos) que contribuíram para este trabalho incrível.</p>
 
             <p class="lead">Sem eles, esta obra não teria sido possível. Cada um deixou sua marca neste projeto, e é por isso que quero parabenizar a todos por este grande feito. Agora, convido vocês a conhecerem esse time de grandes desenvolvedores e pessoas que dedicaram seu tempo e esforço para a realização deste portal.</p>
@@ -17,7 +17,7 @@
     <article class="container">
         <div class="row px-3 py-5 p-md-5 d-flex align-items-center mb-md-4 bordas-orange" style="background-color: #fd5f02; color:black">
             <div class="col-lg-3 col-md-12 col-sm-12 text-center">
-                <img src="images/fabiano.webp" alt="Fabiano" class="img-fluid rounded-3">
+                <img src="images/sobreNos/fabiano.webp" alt="Fabiano" class="img-fluid rounded-3">
             </div>
             <div class="col-lg-9 col-md-12 col-sm-12">
                 <h1 class="mt-4 fw-bold">Fabiano Ramos, Coder Otaku</h1>
@@ -32,7 +32,7 @@
 
         <div class="row px-3 py-5 p-md-5 align-items-center flex-md-row-reverse mb-md-4 bordas-keppel" style="background-color: #15BFAE; color:black">
             <div class="col-lg-3 col-md-12 col-sm-12 text-center">
-                <img src="images/joao.webp" alt="João Pedro" class="img-fluid rounded-3">
+                <img src="images/sobreNos/joao.webp" alt="João Pedro" class="img-fluid rounded-3">
             </div>
             <div class="col-lg-9 col-md-12 col-sm-12 text-start text-lg-end">
                 <h1 class="mt-4 fw-bold">João Pedro, Gamer Reviewer</h1>
@@ -47,7 +47,7 @@
 
         <div class="row px-3 py-5 p-md-5 align-items-center mb-md-4 bordas-darkgray" style="background-color: #3A4F50; color:white">
             <div class="col-lg-3 col-md-12 col-sm-12 text-center">
-                <img src="images/ana.webp" alt="Ana Lívia" class="img-fluid rounded-3">
+                <img src="images/sobreNos/ana.webp" alt="Ana Lívia" class="img-fluid rounded-3">
             </div>
             <div class="col-lg-9 col-md-12 col-sm-12">
                 <h1 class="mt-4 fw-bold">Ana Lívia, Ex-Colunista da CHOQUEI</h1>
@@ -64,7 +64,7 @@
 
         <div class="row px-3 py-5 p-md-5 align-items-center flex-md-row-reverse mb-md-4 bordas-blue" style="background-color: #033e8c; color:white">
             <div class="col-lg-3 col-md-12 col-sm-12 text-center">
-                <img src="images/rafael.webp" alt="Rafael" class="img-fluid rounded-3">
+                <img src="images/sobreNos/rafael.webp" alt="Rafael" class="img-fluid rounded-3">
             </div>
             <div class="col-lg-9 col-md-12 col-sm-12 text-start text-lg-end">
                 <h1 class="mt-4 fw-bold">Rafael Moraes, Pai de Família</h1>
@@ -79,7 +79,7 @@
 
         <div class="row px-3 py-5 p-md-5 align-items-center mb-md-4 bordas" style="background-color: #ffffff; color:black">
             <div class="col-lg-3 col-md-12 col-sm-12 text-center">
-                <img src="images/cristiano.webp" alt="Cristiano" class="img-fluid rounded-3">
+                <img src="images/sobreNos/cristiano.webp" alt="Cristiano" class="img-fluid rounded-3">
             </div>
             <div class="col-lg-9 col-md-12 col-sm-12">
                 <h1 class="mt-4 fw-bold">Cristiano Alves, Ditador dos PR's</h1>
@@ -94,7 +94,7 @@
         
         <div class="row px-3 py-5 p-md-5 align-items-center flex-md-row-reverse mb-5 bordas-yellow" style="background-color: #f2b705; color:black">
             <div class="col-lg-3 col-md-12 col-sm-12 text-center">
-                <img src="images/barbara.webp" alt="Bárbara" class="img-fluid rounded-3">
+                <img src="images/sobreNos/barbara.webp" alt="Bárbara" class="img-fluid rounded-3">
             </div>
             <div class="col-lg-9 col-md-12 col-sm-12 text-start text-lg-end">
                 <h1 class="mt-4 fw-bold">Barbara Brito, Muito Criativa</h1>

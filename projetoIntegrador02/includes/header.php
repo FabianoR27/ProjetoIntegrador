@@ -14,7 +14,7 @@ function active($pagina_ativa){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portal Fatecon</title>
-    <link rel="icon" type="image/x-icon" href="images/favicon.png">
+    <link rel="icon" type="image/x-icon" href="images/logos/favicon.png">
     <!--Css BootStrap-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -29,7 +29,7 @@ function active($pagina_ativa){
 <header class="p-2 border-bottom fw-semibold sticky-lg-top">
     <div class="container">
         <div class="navbar navbar-expand-lg">
-            <a href="index.php"><img class="me-3" src="images/favicon.png" alt=""></a>
+            <a href="index.php"><img class="me-3" src="images/logos/favicon.png" alt=""></a>
             <button class="navbar-toggler bg-warning" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>

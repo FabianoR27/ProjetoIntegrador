@@ -2,7 +2,7 @@
 <main class="container py-0 py-md-4 px-0">
     <div class="p-2 pt-4 p-md-5 conteudo-anime quatro container d-flex flex-column">
         <div class="mx-auto position-relative">
-            <img class="img-fluid rounded-3" src="images/anime_attack_on_titan_lg.webp" alt="Attack On Titan">
+            <img class="img-fluid rounded-3" src="images/animes/anime_attack_on_titan_lg.webp" alt="Attack On Titan">
             <div class="position-absolute top-0 ratio ratio-16x9 anime-video"><!-- Vídeo que será revelado ao posicionar o mouse sobre a imagem -->
                 <iframe src="https://www.youtube.com/embed/EBmJbYCIi4Q" title="Eren vs Reiner e Porco | Attack on Titan Final Season (Dublado)" class="rounded-3"></iframe>
             </div>

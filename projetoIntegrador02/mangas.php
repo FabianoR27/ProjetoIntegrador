@@ -7,7 +7,7 @@
             <h1 class="text-center text-uppercase fw-bold py-2 text-keppel">História Dos Mangás</h1>
             <div class="d-flex flex-md-row flex-row flex-wrap container mt-4 px-3 px-md-0">
                 <div class="col-lg-3 col-6 text-center px-2 order-1 order-md-0">
-                    <img class="img-fluid rounded-3" style="filter: drop-shadow(0 0 0.5rem #275754)" src="images/primeira_horizontal_mangas.jpg" alt="imagem horizontal de 240x480">
+                    <img class="img-fluid rounded-3" style="filter: drop-shadow(0 0 0.5rem #275754)" src="images/mangas/primeira_horizontal_mangas.jpg" alt="imagem horizontal de 240x480">
                 </div>
                 <div class="col-lg-6 col-12 order-0 order-md-2 order-lg-1">
                     <small>Por: Ana Lívia Moraes.</small>
@@ -24,22 +24,22 @@
                     </div>
                     <div class="d-flex justify-content-between">
                         <figure class="p-3 text-center" style="filter: drop-shadow(0 0 1rem #F2CE1B)">
-                            <img class="rounded-circle img-fluid" src="images/naruto.jpg" alt="imagem naruto">
+                            <img class="rounded-circle img-fluid" src="images/mangas/personagens/naruto.jpg" alt="imagem naruto">
                             <figcaption><b>Naruto</b></figcaption>
                         </figure>
                         <figure  class="p-3 text-center" style="filter: drop-shadow(0 0 1rem #E55F1B)">
-                            <img class="rounded-circle img-fluid" src="images/goku_redondo.png" alt="imagem gpku">
+                            <img class="rounded-circle img-fluid" src="images/mangas/personagens/goku_redondo.png" alt="imagem gpku">
                             <figcaption><b>Goku</b></figcaption>
                         </figure>
                         <figure  class="p-3 text-center" style="filter: drop-shadow(0 0 1rem #D99543)">
-                            <img class="rounded-circle img-fluid" src="images/luffy.jpg" alt="imagem luffy">
+                            <img class="rounded-circle img-fluid" src="images/mangas/personagens/luffy.jpg" alt="imagem luffy">
                             <figcaption><b>Luffy</b></figcaption>
                         </figure>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-6 text-center px-2 order-2 order-md-1 order-lg-2">
-                    <img class="img-fluid rounded-3" style="filter: drop-shadow(0 0 0.5rem #275754)" src="images/segunda_horizontal_mangas.jpg" alt="imagem horizontal de 240x480">
+                    <img class="img-fluid rounded-3" style="filter: drop-shadow(0 0 0.5rem #275754)" src="images/mangas/segunda_horizontal_mangas.jpg" alt="imagem horizontal de 240x480">
                 </div>
             </div>
         </main>
@@ -53,7 +53,7 @@
                 <div class="d-flex flex-column flex-md-row gap-3">
                     <div class="one_piece clearfix p-2 p-lg-3 shadow w-100 rounded-3">
                         <figure class="p-1 px-md-0 p-lg-1 text-center float-end">
-                            <img  src="images/one_piece.jpg" alt="capa do mangá one piece">
+                            <img src="images/mangas/capas/one_piece.jpg" alt="capa do mangá one piece">
                             <figcaption class="text-center" style="font-size: small;">
                                 <small>One Piece vol.108</small>
                             </figcaption>
@@ -69,7 +69,7 @@
 
                     <div class="naruto clearfix p-2 p-lg-3 shadow w-100 rounded-3">
                         <figure class="p-1 px-md-0 p-lg-1 text-center float-end">
-                            <img  src="images/naruto_shipuden.jpg" alt="capa do mangá naruto">
+                            <img src="images/mangas/capas/naruto_shipuden.jpg" alt="capa do mangá naruto">
                             <figcaption class="text-center" style="font-size: small;">
                                 <small>Naruto Shippuden vol.41</small>
                             </figcaption>
@@ -87,7 +87,7 @@
                 <div class="d-flex flex-column flex-md-row gap-3">
                     <div class="dragon_ball clearfix p-2 p-lg-3 shadow w-100 rounded-3">
                         <figure class="p-1 px-md-0 p-lg-1 text-center float-end">
-                            <img  src="images/dragon_ball.jpg" alt="capa do anime dragon ball">
+                            <img  src="images/mangas/capas/dragon_ball.jpg" alt="capa do anime dragon ball">
                             <figcaption class="text-center" style="font-size: small;">
                                 <small>Dragon Ball Z vol.01</small>
                             </figcaption>
@@ -103,7 +103,7 @@
 
                     <div class="death_note clearfix p-2 p-lg-3 shadow w-100 rounded-3">
                         <figure class="p-1 px-md-0 p-lg-1 text-center float-end">
-                            <img  src="images/death_note.jpg" alt="capa do maná death note">
+                            <img  src="images/mangas/capas/death_note.jpg" alt="capa do maná death note">
                             <figcaption class="text-center">
                                 <small>Death Note vol.06</small>
                             </figcaption>
@@ -133,7 +133,7 @@
                         </div>
                         <div class="text-center">
                             <figure class="px-1">
-                                <img  src="images/akira_vol_01.jpg" alt="capa do mangá Akira" class="img-fluid">
+                                <img  src="images/mangas/capas/akira_vol_01.jpg" alt="capa do mangá Akira" class="img-fluid">
                                 <figcaption style="font-size: small;" class="pt-2">Akira vol.01</figcaption>
                             </figure>
                         </div>
@@ -146,7 +146,7 @@
                         </div>
                         <div class="text-center">
                             <figure class="px-1">
-                                <img  src="images/ichi_the_killer_vol04.jpg" alt="capa do mangá ichi the killer" class="img-fluid">
+                                <img  src="images/mangas/capas/ichi_the_killer_vol04.jpg" alt="capa do mangá ichi the killer" class="img-fluid">
                                 <figcaption style="font-size: small;" class="pt-2">Ichi The Killer vol.04</figcaption>
                             </figure>
                         </div>
@@ -161,7 +161,7 @@
                         </div>
                         <div class="text-center">
                             <figure class="px-1">
-                                <img src="images/rupan_sansei.jpg" alt="capa do mangá Rupan Sansei" class="img-fluid">
+                                <img src="images/mangas/capas/rupan_sansei.jpg" alt="capa do mangá Rupan Sansei" class="img-fluid">
                                 <figcaption style="font-size: small;" class="pt-2">Rupan Sansei</figcaption>
                             </figure>
                         </div>
@@ -174,7 +174,7 @@
                         </div>
                         <div class="text-center">
                             <figure class="px-1">
-                                <img src="images/gunm_09.jpg" alt="capa do mangá Gunnm" class="img-fluid">
+                                <img src="images/mangas/capas/gunm_09.jpg" alt="capa do mangá Gunnm" class="img-fluid">
                                 <figcaption style="font-size: small;" class="pt-2">Gunnm vol.09</figcaption>
                             </figure>
                         </div>
@@ -195,7 +195,7 @@
                     <div class="mx-auto mt-4 p-2 shadow w-100 rounded-3"  style="background-color: white; filter: drop-shadow(0 0 0.5rem #0BD2DE)">
                         <h3 class="pt-4 text-center fw-semibold">Kentaro Miura</h3>
                         <div class="text-center">
-                            <img class="rounded-circle p-2 img-fluid" src="images/kentaro_miura.jpg" alt="foto do autor kentaro Miura">
+                            <img class="rounded-circle p-2 img-fluid" src="images/mangas/mangakas/kentaro_miura.jpg" alt="foto do autor kentaro Miura">
                         </div>
                         <p class="p-2">Kentaro Miura foi um renomado mangaká japonês, famoso por criar o épico de fantasia sombria Berserk. Publicado pela primeira vez em 1989, Berserk é celebrado por sua arte detalhada, personagens complexos e temas profundos de sofrimento, amizade e redenção. A obra de Miura influenciou fortemente o mundo dos mangás e outras mídias, incluindo videogames e filmes. Seu legado continua a impactar fãs ao redor do mundo, mesmo após seu falecimento em 2021.</p>
                     </div>
@@ -203,7 +203,7 @@
                     <div class=" mx-auto mt-4 p-2 shadow w-100 rounded-3" style="background-color: white; filter: drop-shadow(0 0 0.5rem #0BD2DE)">
                         <h3 class="pt-4 text-center fw-semibold">Eiichiro Oda</h3>
                         <div class="text-center">
-                            <img class="rounded-circle p-2 img-fluid" src="images/eiichiro_oda.jpg" alt="foto do autor Eiichiro Oda">
+                            <img class="rounded-circle p-2 img-fluid" src="images/mangas/mangakas/eiichiro_oda.jpg" alt="foto do autor Eiichiro Oda">
                         </div>
                         <p class="p-2">Eiichiro Oda é o criador de One Piece, um dos mangás mais vendidos e influentes de todos os tempos. Nascido no Japão em 1975, Oda começou sua carreira como assistente de outros mangakás antes de lançar One Piece em 1997. Conhecido por sua narrativa criativa, personagens carismáticos e um universo vasto e detalhado, Oda revolucionou o mundo dos mangás e conquistou uma base de fãs global. Sua dedicação à série, que dura mais de duas décadas, consolidou seu legado na cultura pop japonesa e mundial.</p>
                     </div>
@@ -213,7 +213,7 @@
                     <div class=" mx-auto mt-4 p-2 shadow w-100 rounded-3" style="background-color: white; filter: drop-shadow(0 0 0.5rem #0BD2DE)">
                         <h3 class="pt-4 text-center fw-semibold">Akira Toriyama</h3>
                         <div class="text-center">
-                            <img class="rounded-circle p-2 img-fluid" src="images/akira_toriyama.jpg" alt="foto do autor Akira Toriyama">
+                            <img class="rounded-circle p-2 img-fluid" src="images/mangas/mangakas/akira_toriyama.jpg" alt="foto do autor Akira Toriyama">
                         </div>
                         <p class="p-2">Akira Toriyama é um renomado mangaká japonês, famoso por criar Dragon Ball, uma das séries mais influentes do mundo dos mangás e animes. Nascido em 1955, Toriyama começou sua carreira com a série Dr. Slump, mas foi com Dragon Ball que ele alcançou fama mundial, redefinindo o gênero de ação e aventura. Seu estilo artístico único e narrativa cativante inspiraram várias gerações de fãs e artistas, tornando-o um ícone da cultura pop.</p>
                     </div>
@@ -221,7 +221,7 @@
                     <div class="mx-auto mt-4 p-2 shadow w-100 rounded-3" style="background-color: white; filter: drop-shadow(0 0 0.5rem #0BD2DE)">
                         <h3 class="pt-4 text-center fw-semibold">Tatsuki Fujimoto</h3>
                         <div class="text-center">
-                            <img class="rounded-circle p-2 img-fluid" src="images/tatsuki_fujimoto.jpg" alt="foto do autor Tatsuki Fujimoto">
+                            <img class="rounded-circle p-2 img-fluid" src="images/mangas/mangakas/tatsuki_fujimoto.jpg" alt="foto do autor Tatsuki Fujimoto">
                         </div>
                         <p class="p-2">Tatsuki Fujimoto é um mangaká japonês, conhecido por sua narrativa inovadora e sombria. Ele é o criador de Chainsaw Man e Fire Punch, obras que se destacam pela exploração de temas complexos, como perda, violência e humanidade, combinadas com humor negro e personagens profundos. Fujimoto ganhou popularidade mundial com Chainsaw Man, sendo elogiado por seu estilo de arte dinâmico e histórias imprevisíveis, que desafiam convenções do gênero shonen..</p>
                     </div>

@@ -13,7 +13,7 @@
 
                         <small>Por: Fabiano Ramos.</small>
                         <div class="text-end">
-                            <img src="images/serie_character_theboys.webp" alt="The Boys" class="img-fluid m-auto my-2 rounded-3">
+                            <img src="images/series/serie_character_theboys.webp" alt="The Boys" class="img-fluid m-auto my-2 rounded-3">
                             <small> NA IMAGEM: The Boys.</small>
                         </div>
 
@@ -34,7 +34,7 @@
                         <h2 class="text-uppercase text-center text-primary fw-semibold">Curiosidade: você sabe o que signica <em>"Live Action"</em>?</h2>
 
                         <div class="text-center m-auto">
-                            <img src="images/serie_character_rick.webp" alt="Rick Grimes" class="p-2 rounded-4 img-fluid">
+                            <img src="images/series/serie_character_rick.webp" alt="Rick Grimes" class="p-2 rounded-4 img-fluid">
                         </div>
 
                         <div class="py-2 lh-base">
@@ -75,7 +75,7 @@
                             <div class="accordion-body p-2 pt-4 p-md-5 conteudo-serie um">
                                 <div class=" my-4 d-flex flex-column flex-sm-column flex-lg-row flex-md-row">
                                     <div class="col-lg-4 col-md-4 col-sm-12 order-1 order-sm-1 order-lg-0  text-center text-sm-center text-lg-start px-2">
-                                        <img src="images/serie_sandman.webp" alt="Sandman" class="img-fluid rounded-3">
+                                        <img src="images/series/serie_sandman.webp" alt="Sandman" class="img-fluid rounded-3">
                                     </div>
                                     <div class="col-lg-8 col-md-8 col-sm-12 order-sm-0 order-lg-1 px-3">
                                         <h1 class="text-danger fw-semibold">SANDMAN</h1>
@@ -104,7 +104,7 @@
                             <div class="accordion-body p-2 pt-4 p-md-5 conteudo-serie dois">
                                 <div class=" my-4 d-flex flex-column flex-sm-column flex-lg-row flex-md-row">
                                     <div class="col-lg-4 col-md-4 col-sm-12 order-1 order-sm-1 order-lg-0  text-center text-sm-center text-lg-start px-2">
-                                        <img src="images/serie_the_boys.webp" alt="The Boys" class="img-fluid rounded-3">
+                                        <img src="images/series/serie_the_boys.webp" alt="The Boys" class="img-fluid rounded-3">
                                     </div>
                                     <div class="col-lg-8 col-md-8 col-sm-12 order-sm-0 order-lg-1 px-3">
                                         <h1 class="fw-semibold">THE BOYS</h1>
@@ -133,7 +133,7 @@
                             <div class="accordion-body p-2 pt-4 p-md-5 conteudo-serie tres">
                                 <div class=" my-4 d-flex flex-column flex-sm-column flex-lg-row flex-md-row">
                                     <div class="col-lg-4 col-md-4 col-sm-12 order-1 order-sm-1 order-lg-0  text-center text-sm-center text-lg-start px-2">
-                                        <img src="images/serie_invencivel.webp" alt="Invencível" class="img-fluid rounded-3">
+                                        <img src="images/series/serie_invencivel.webp" alt="Invencível" class="img-fluid rounded-3">
                                     </div>
                                     <div class="col-lg-8 col-md-8 col-sm-12 order-sm-0 order-lg-1 px-3">
                                         <h1 class="text-warning fw-semibold">INVENCÍVEL</h1>
@@ -162,7 +162,7 @@
                             <div class="accordion-body p-2 pt-4 p-md-5 conteudo-serie quatro">
                                 <div class=" my-4 d-flex flex-column flex-sm-column flex-lg-row flex-md-row">
                                     <div class="col-lg-4 col-md-4 col-sm-12 order-1 order-sm-1 order-lg-0  text-center text-sm-center text-lg-start px-2">
-                                        <img src="images/serie_the_umbrella_academy.webp" alt="The Umbrella Academy" class="img-fluid rounded-3">
+                                        <img src="images/series/serie_the_umbrella_academy.webp" alt="The Umbrella Academy" class="img-fluid rounded-3">
                                     </div>
                                     <div class="col-lg-8 col-md-8 col-sm-12 order-sm-0 order-lg-1 px-3">
                                         <h1 class="fw-semibold">THE UMBRELLA ACADEMY</h1>
@@ -191,7 +191,7 @@
                             <div class="accordion-body p-2 pt-4 p-md-5 conteudo-serie cinco">
                                 <div class=" my-4 d-flex flex-column flex-sm-column flex-lg-row flex-md-row">
                                     <div class="col-lg-4 col-md-4 col-sm-12 order-1 order-sm-1 order-lg-0  text-center text-sm-center text-lg-start px-2">
-                                        <img src="images/serie_demolidor.webp" alt="Demolidor" class="img-fluid rounded-3">
+                                        <img src="images/series/serie_demolidor.webp" alt="Demolidor" class="img-fluid rounded-3">
                                     </div>
                                     <div class="col-lg-8 col-md-8 col-sm-12 order-sm-0 order-lg-1 px-3">
                                         <h1 class="fw-semibold">DEMOLIDOR</h1>

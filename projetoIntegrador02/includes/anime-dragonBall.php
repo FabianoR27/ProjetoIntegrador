@@ -2,7 +2,7 @@
 <main class="container py-0 py-md-4 px-0">
     <div class="p-2 pt-4 p-md-5 conteudo-anime tres container d-flex flex-column">
         <div class="mx-auto position-relative">
-            <img class="img-fluid rounded-3" src="images/anime_dragon_ball_lg.webp" alt="Dragon Ball">
+            <img class="img-fluid rounded-3" src="images/animes/anime_dragon_ball_lg.webp" alt="Dragon Ball">
             <div class="position-absolute top-0 ratio ratio-16x9 anime-video"><!-- Vídeo que será revelado ao posicionar o mouse sobre a imagem -->
                 <iframe src="https://www.youtube.com/embed/bbCQ-XiXKbo" title="Goku vira Super Saiyajin pela primeira vez! | Dragon Ball Z (Dublado)" class="rounded-3"></iframe>
             </div>

@@ -29,7 +29,7 @@
 
             <!--Coluna 3: Imagem do mascote -->
             <div class="col-12 col-sm-4 col-md-4 col-lg-2 mx-auto">
-                <img class="img-fluid" src="images/mysignwhite.png" alt="Mascote Fatecon">
+                <img class="img-fluid" src="images/logos/mysignwhite.png" alt="Mascote Fatecon">
             </div>
 
             <!--Coluna 4: Formulário da newsletter -->

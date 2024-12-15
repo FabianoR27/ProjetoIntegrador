@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-sm-12 my-auto text-center text-md-start">
-                    <img src="images/titulo1.png" alt="Videogames">
+                    <img src="images/games/titulo1.png" alt="Videogames">
                 </div>
                 
                 <div class="col-lg-8 p-5">
@@ -49,38 +49,38 @@
         
         <div class="container d-flex py-5 flex-md-row flex-column flex-wrap justify-content-center gap-2">
             <div class="text-center h-100 px-2 my-auto">
-                <img src="images/leon.png" alt="Leon" class="img-fluid m-1">
+                <img src="images/games/leon.png" alt="Leon" class="img-fluid m-1">
                 <p class="fw-semibold">Leon S. Kennedy</p>
             </div>
             
             <div class="text-center d-flex flex-row flex-md-column justify-content-center gap-2 px-2">
                 <div class="d-flex flex-column flex-md-row gap-3">
                     <div class="fw-bold">
-                        <img src="images/ashley.jpg" alt="Ashley Graham" class="img-fluid m-1">
+                        <img src="images/games/ashley.jpg" alt="Ashley Graham" class="img-fluid m-1">
                         <p><small>Ashley Graham</small></p>
                     </div>
                     <div class="fw-bold">
-                        <img src="images/krauser.png" alt="Jack Krauser" class="img-fluid m-1">
+                        <img src="images/games/krauser.png" alt="Jack Krauser" class="img-fluid m-1">
                         <p><small>Jack Krauser</small></p>
                     </div>
                     <div class="fw-bold">
-                        <img src="images/luis.jpg" alt="Luis Sera" class="img-fluid m-1">
+                        <img src="images/games/luis.jpg" alt="Luis Sera" class="img-fluid m-1">
                         <p><small>Luis Sera</small></p>
                     </div>
                 </div>
 
                 <div class="d-flex flex-column flex-md-row gap-3">
                     <div class="fw-bold">
-                        <img src="images/mendez.jpg" alt="Bitores Mendez" class="img-fluid m-1">
+                        <img src="images/games/mendez.jpg" alt="Bitores Mendez" class="img-fluid m-1">
                         <p><small>Bitores Mendez</small></p>
                     </div>
 
                     <div class="fw-bold">
-                        <img src="images/ada.jpg" alt="Ada Wong" class="img-fluid m-1">
+                        <img src="images/games/ada.jpg" alt="Ada Wong" class="img-fluid m-1">
                         <p><small>Ada Wong</small></p>
                     </div>
                     <div class="fw-bold column">
-                        <img src="images/saddler.jpg" alt="Osmud Saddler" class="img-fluid m-1">
+                        <img src="images/games/saddler.jpg" alt="Osmud Saddler" class="img-fluid m-1">
                         <p><small>Osmund Saddler</small></p>
                     </div>
                 </div>
@@ -96,19 +96,19 @@
                 
                 <div class="d-flex flex-column flex-lg-row gap-3 justify-content-center text-center">
                     <div class="w-100 p-3 bordas-orange">
-                        <img src="images/monopoly.jpg" alt="monopoly" class="p-2">
+                        <img src="images/games/monopoly.jpg" alt="monopoly" class="p-2">
                         <h2 class="h5 fw-bold text-orange">Monopoly: O Clássico Jogo de Compra e Venda de Propriedades</h2>
                         <p class="pt-2 text-start">Monopoly é um jogo de tabuleiro icônico que simula a compra, venda e administração de propriedades. Criado em 1935, o objetivo é dominar o mercado, levando os oponentes à falência enquanto constrói um império imobiliário. Com cartas de sorte e reveses, negociação entre jogadores e estratégias financeiras, Monopoly é uma mistura de diversão e competição, tornando-se um dos jogos mais populares do mundo.</p>
                     </div>
 
                     <div class="w-100 p-3 bordas-orange">
-                        <img src="images/ticket.jpg" alt="Ticket To Ride" class="p-2">
+                        <img src="images/games/ticket.jpg" alt="Ticket To Ride" class="p-2">
                         <h2 class="h5 fw-bold text-orange">Ticket to Ride: Uma Aventura Sobre Trilhos</h2>
                         <p class="pt-2 text-start">Ticket to Ride é um jogo de tabuleiro estratégico onde os jogadores competem para construir rotas ferroviárias conectando cidades em um mapa. Lançado em 2004, o jogo combina planejamento e tática, desafiando os participantes a completar objetivos secretos enquanto bloqueiam os planos dos oponentes. Simples de aprender, mas cheio de possibilidades, é um sucesso entre fãs de jogos de todas as idades.</p>
                     </div>
 
                     <div class="w-100 p-3 bordas-orange">
-                        <img src="images/detetive.jpg" alt="Detetive" class="p-2">
+                        <img src="images/games/detetive.jpg" alt="Detetive" class="p-2">
                         <h2 class="h5 fw-bold text-orange">Clue: O Jogo de Mistério e Dedução</h2>
                         <p class="pt-2 text-start">Clue é um clássico jogo de tabuleiro onde os jogadores investigam um assassinato para descobrir quem é o culpado, qual arma foi usada e onde o crime ocorreu. Por meio de pistas e dedução lógica, cada participante elimina possibilidades até resolver o mistério. Lançado em 1949, é um sucesso atemporal que combina estratégia, suspense e diversão.</p>
                     </div>
@@ -125,11 +125,11 @@
             <p class="pt-4">E iniciaremos esse quadro com nosso amado camundongo, que ganhou uma repaginada no classico Castle of Illusion de mega drive para as plataformas da 7° geração.</p>
                 <div class="row">
                     <div class="col-lg-6 col-sm-12">
-                        <img src="images/mousevelho.jpg" class="img-fluid" alt="Castle Of Illusion (1990)">
+                        <img src="images/games/mousevelho.jpg" class="img-fluid" alt="Castle Of Illusion (1990)">
                         <h2 class="mt-2">Castle of Illusion starring Mickey Mouse (1990)</h2>
                     </div>
                     <div class="col-lg-6 col-sm-12">
-                        <img src="images/mouseremake.jpg" class="img-fluid" alt="Castle Of Illusion (2013)">
+                        <img src="images/games/mouseremake.jpg" class="img-fluid" alt="Castle Of Illusion (2013)">
                         <h2 class="mt-2">Castle of Illusion starring Mickey Mouse remastered (2013)</h2>
                     </div>
                 </div>
