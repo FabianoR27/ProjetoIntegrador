@@ -756,39 +756,41 @@
     <!--Footer-->
     <footer class="container-fluid px-0 pt-4">
         <!--Navegação do footer-->
-        <div class="container py-4 px-5 d-flex">
-            <nav class="row gx-5 d-flex align-items-center">
+        <div class="container py-4 px-5">
+            <nav class="gx-5 d-flex flex-column flex-lg-row justify-content-center justify-content-lg-around gap-2">
                 <!--Coluna 1: Links principais -->
-                <div class="col-6 col-sm-4 col-md-3 col-lg-3">
-                    <ul class="nav flex-column">
-                        <li class="nav-item mb-3"><a href="index.html" class="nav-link p-0 link-light">Home</a></li>
-                        <li class="nav-item mb-3"><a href="atracoes.html" class="nav-link p-0 link-light">Atrações</a></li>
-                        <li class="nav-item mb-3"><a href="hqs.html" class="nav-link p-0 link-light">HQ's</a></li>
-                        <li class="nav-item mb-3"><a href="mangas.html" class="nav-link p-0 link-light">Mangás</a></li>
-                        <li class="nav-item mb-3"><a href="animes.html" class="nav-link p-0 link-light">Animes</a></li>
-                        <li class="nav-item mb-3"><a href="series.html" class="nav-link p-0 link-light">Séries Baseadas em HQ</a></li>
-                    </ul>
+                <div class="d-flex justify-content-around w-100 m-auto gap-2">
+                    <div class="w-50">
+                        <ul class="nav flex-column">
+                            <li class="nav-item mb-3"><a href="index.html" class="nav-link p-0 link-light">Home</a></li>
+                            <li class="nav-item mb-3"><a href="atracoes.html" class="nav-link p-0 link-light">Atrações</a></li>
+                            <li class="nav-item mb-3"><a href="hqs.html" class="nav-link p-0 link-light">HQ's</a></li>
+                            <li class="nav-item mb-3"><a href="mangas.html" class="nav-link p-0 link-light">Mangás</a></li>
+                            <li class="nav-item mb-3"><a href="animes.html" class="nav-link p-0 link-light">Animes</a></li>
+                            <li class="nav-item mb-3"><a href="series.html" class="nav-link p-0 link-light">Séries Baseadas em HQ</a></li>
+                        </ul>
+                    </div>
+                    
+                    <!--Coluna 2: Links adicionais -->
+                    <div class="w-50">
+                        <ul class="nav flex-column">
+                            <li class="nav-item mb-3"><a href="games.html" class="nav-link p-0 link-light">Games</a></li>
+                            <li class="nav-item mb-3"><a href="expositores.html" class="nav-link p-0 link-light">Expositores</a></li>
+                            <li class="nav-item mb-3"><a href="inscricoes.html" class="nav-link p-0 link-light">Inscrições</a></li>
+                            <li class="nav-item mb-3"><a href="quemsomos.html" class="nav-link p-0 link-light">Quem Somos?</a></li>
+                            <li class="nav-item mb-3"><a href="normas.html" class="nav-link p-0 link-light">Normas de Uso</a></li>
+                            <li class="nav-item mb-3"><a href="contatos.html" class="nav-link p-0 link-light">Contatos</a></li>
+                        </ul>
+                    </div>
                 </div>
-
-                <!--Coluna 2: Links adicionais -->
-                <div class="col-6 col-sm-4 col-md-4 col-lg-3 ">
-                    <ul class="nav flex-column">
-                        <li class="nav-item mb-3"><a href="games.html" class="nav-link p-0 link-light">Games</a></li>
-                        <li class="nav-item mb-3"><a href="expositores.html" class="nav-link p-0 link-light">Expositores</a></li>
-                        <li class="nav-item mb-3"><a href="inscricoes.html" class="nav-link p-0 link-light">Inscrições</a></li>
-                        <li class="nav-item mb-3"><a href="quemsomos.html" class="nav-link p-0 link-light">Quem Somos?</a></li>
-                        <li class="nav-item mb-3"><a href="normas.html" class="nav-link p-0 link-light">Normas de Uso</a></li>
-                        <li class="nav-item mb-3"><a href="contatos.html" class="nav-link p-0 link-light">Contatos</a></li>
-                    </ul>
+                
+                <!--Coluna 3: Imagem do mascote-->
+                <div class=" text-center">
+                    <img src="images/logos/mascoteFatecon.png" alt="meme" class=" px-4" style="width: 250px;">
                 </div>
-
-                <!--Coluna 3: Imagem do mascote -->
-                <div class="col-12 col-sm-4 col-md-4 col-lg-2 mx-auto">
-                    <img class="img-fluid" src="images/logos/mysignwhite.png" alt="Mascote Fatecon">
-                </div>
-
+                
                 <!--Coluna 4: Formulário da newsletter -->
-                <div class="col-12 col-md-6 col-lg-2 offset-lg-1 offset-md-3 col-lg-3 py-4">
+                <div class=" w-75 m-auto py-4">
                     <hr class="d-sm-none">
                     <form>
                         <div class="text-light">
@@ -798,7 +800,7 @@
                         <div class="form-floating d-flex gap-2 ">
                             <input type="email" class="form-control " id="floatingInput" placeholder="name@example.com">
                             <label for="floatingInput">E-mail</label>
-                        <button class="btn btn-warning" type="submit">Enviar</button>
+                            <button class="btn btn-warning" type="submit">Enviar</button>
                         </div>
                     </form>
                 </div>
