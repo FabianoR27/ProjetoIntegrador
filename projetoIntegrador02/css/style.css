@@ -22,6 +22,9 @@ footer {
 .text-keppel {
     color: #15BFAE;
 }
+.text-black {
+    color: #000000;
+}
 
 /* deixa a classe active negrito */
 .active {
