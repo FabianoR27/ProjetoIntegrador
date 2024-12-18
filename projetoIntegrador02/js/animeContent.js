@@ -15,7 +15,11 @@ document.addEventListener('DOMContentLoaded', function() {
             xhr.onload = function() {
                 if (xhr.status === 200) {
                     // Insere o conteúdo na div com o id "content"
-                    document.getElementById('content').innerHTML = xhr.responseText;
+                    var contentDiv = document.getElementById('content');
+                    contentDiv.innerHTML = xhr.responseText;
+
+                    // Move a tela até a div onde o conteúdo foi carregado
+                    contentDiv.scrollIntoView({ behavior: 'smooth' });
                 } else {
                     console.error('Erro ao carregar o conteúdo: ' + xhr.status);
                 }
