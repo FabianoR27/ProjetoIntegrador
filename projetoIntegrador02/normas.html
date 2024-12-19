@@ -14,47 +14,32 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <!-- Script para carregar o header e o footer -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Carregar o header
+            fetch('components/header.html')
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('header').innerHTML = data;
+                })
+                .catch(error => console.error('Erro ao carregar o header:', error));
+
+            // Carregar o footer
+            fetch('components/footer.html')
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('footer').innerHTML = data;
+                })
+                .catch(error => console.error('Erro ao carregar o footer:', error));
+        });
+    </script>
 </head>
 
 <body>
-    <header class="p-2 border-bottom fw-semibold sticky-xl-top">
-        <div class="container">
-            <div class="navbar navbar-expand-lg">
-                <a href="index.html"><img class="me-3 rounded-circle" src="images/logos/logo_equipe_v1.webp" alt="DAPP Logo" style="width: 50px;"></a>
-                <button class="navbar-toggler bg-warning" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <nav class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a href="index.html" class="nav-link link-light">Home</a></li>
-                        <li class="nav-item"><a href="atracoes.html" class="nav-link link-light">Atrações</a></li>
-                        <!--Dropdown-->
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle link-light" href="obras.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">HQs & Mangás</a>
-                        <ul class="dropdown-menu bg-warning">
-                            <li><a class="dropdown-item" href="hqs.html">História Das HQ's</a></li>
-                            <li><a class="dropdown-item" href="mangas.html">História Dos Mangás</a></li>
-                        </ul>
-                        </li>
-                        <!--Dropdown 2-->
-                        <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle link-light" href="tvecinema.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">Tv & Cinema</a>
-                        <ul class="dropdown-menu bg-warning">
-                            <li><a class="dropdown-item" href="animes.html">Animes</a></li>
-                            <li><a class="dropdown-item" href="series.html">Séries Baseadas em HQ</a></li>
-                        </ul>
-                        <li class="nav-item"><a href="games.html" class="nav-link link-light">Games</a></li>
-                        <li class="nav-item"><a href="expositores.html" class="nav-link link-light">Expositores</a></li>
-                        <li class="nav-item"><a href="quemsomos.html" class="nav-link link-light">Quem Somos?</a></li>
-                    </ul>
-                    <form class="d-flex" role="search">
-                        <input class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
-                        <button class="btn btn-warning" type="submit"><i class="bi bi-search"></i></button>
-                    </form>
-                </nav>
-            </div>
-        </div>
-    </header>
+    <!-- header -->
+    <div id="header"></div>
 
     <article class="container py-5 my-5 text-light">
         <h1 class="text-center fw-bold mb-4 text-warning text-uppercase">Termos e Condições de Uso</h1>
@@ -172,73 +157,11 @@
                     </div>
                 </div>
             </div>
-        </div>    
+        </div>
     </article>
 
-    <!--Footer-->
-    <footer class="container-fluid px-0 pt-4">
-        <!--Navegação do footer-->
-        <div class="container py-4 px-5">
-            <nav class="gx-5 d-flex flex-column flex-lg-row justify-content-center justify-content-lg-around gap-5">
-                <!--Coluna 1: Links principais -->
-                <div class="d-flex justify-content-around w-100 m-auto gap-5">
-                    <div class="w-50">
-                        <ul class="nav flex-column">
-                            <li class="nav-item mb-3"><a href="index.html" class="nav-link p-0 link-light">Home</a></li>
-                            <li class="nav-item mb-3"><a href="atracoes.html" class="nav-link p-0 link-light">Atrações</a></li>
-                            <li class="nav-item mb-3"><a href="hqs.html" class="nav-link p-0 link-light">HQ's</a></li>
-                            <li class="nav-item mb-3"><a href="mangas.html" class="nav-link p-0 link-light">Mangás</a></li>
-                            <li class="nav-item mb-3"><a href="animes.html" class="nav-link p-0 link-light">Animes</a></li>
-                            <li class="nav-item mb-3"><a href="series.html" class="nav-link p-0 link-light">Séries Baseadas em HQ</a></li>
-                        </ul>
-                    </div>
-                    
-                    <!--Coluna 2: Links adicionais -->
-                    <div class="w-50">
-                        <ul class="nav flex-column">
-                            <li class="nav-item mb-3"><a href="games.html" class="nav-link p-0 link-light">Games</a></li>
-                            <li class="nav-item mb-3"><a href="expositores.html" class="nav-link p-0 link-light">Expositores</a></li>
-                            <li class="nav-item mb-3"><a href="inscricoes.html" class="nav-link p-0 link-light">Inscrições</a></li>
-                            <li class="nav-item mb-3"><a href="quemsomos.html" class="nav-link p-0 link-light">Quem Somos?</a></li>
-                            <li class="nav-item mb-3"><a href="normas.html" class="nav-link p-0 link-light">Normas de Uso</a></li>
-                            <li class="nav-item mb-3"><a href="contatos.html" class="nav-link p-0 link-light">Contatos</a></li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <!--Coluna 3: Imagem do mascote-->
-                <div class=" text-center">
-                    <img src="images/logos/mascoteFatecon.png" alt="meme" class=" px-4" style="width: 250px;">
-                </div>
-                
-                <!--Coluna 4: Formulário da newsletter -->
-                <div class=" w-75 m-auto py-4">
-                    <hr class="d-sm-none">
-                    <form>
-                        <div class="text-light">
-                            <h4>Assine nossa newsletter</h4>
-                            <p>Receba nossas novidades</p>
-                        </div>
-                        <div class="form-floating d-flex gap-2 ">
-                            <input type="email" class="form-control " id="floatingInput" placeholder="name@example.com">
-                            <label for="floatingInput">E-mail</label>
-                            <button class="btn btn-warning" type="submit">Enviar</button>
-                        </div>
-                    </form>
-                </div>
-            </nav>
-        </div>
-        
-        <!--Footer dos direitos e redes sociais-->
-        <div class="container d-flex flex-sm-row justify-content-between py-4 border-top align-items-center px-5">
-            <small class="fs-6 text-light">&copy; 2024 DOCES E AMÁVEIS PREDADORES DE PELÚCIA | Todos Os Direitos Reservados.</small>
-            <ul class="list-unstyled d-flex">
-                <li class="ms-3"><a class="link-body-emphasis" href="https://www.instagram.com/fateconhqs/" target="_blank"><i class="bi bi-instagram fs-4"></i></a></li>
-                <li class="ms-3"><a class="link-body-emphasis" href="https://web.facebook.com/fateconhqs/" target="_blank"><i class="bi bi-facebook fs-4"></i></a></li>
-                <li class="ms-3"><a class="link-body-emphasis" href="https://www.threads.net/@fateconhqs" target="_blank"><i class="bi bi-threads fs-4"></i></a></li>
-            </ul>
-        </div>
-    </footer>
+    <!-- footer -->
+    <div id="footer"></div>
 
     <!--Scripts BootStrap-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
